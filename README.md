@@ -6,8 +6,6 @@ Getting a passport, national ID, police report, driving licence or land transfer
 jumping between confusing websites, and the rules change often. This site puts the essentials in one place:
 **where to go, exactly which documents to bring, the official fee, and how long it takes.**
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/winzepz/public-service-hub-nepal)
-
 ## Features
 
 - **18 step-by-step guides** across identity, travel, vehicles, civil registration, tax, business and land, each with eligibility, office, document list, steps, fee table, processing time and tips.
@@ -37,19 +35,6 @@ npm run check-links  # confirm every official portal still responds
 ```
 
 Requires Node.js 18.18 or newer.
-
-## Deploy for free on Render
-
-The repository includes a [`render.yaml`](render.yaml) blueprint for a **free static site** that never sleeps.
-
-1. Click **Deploy to Render** above (or, in Render, choose **New → Blueprint** and select this repository or your fork).
-2. Approve the blueprint. The site will be live at `https://<service-name>.onrender.com`.
-3. On every push, Render runs `npm ci && npm run validate && npm run build` and publishes `./out`.
-
-To deploy by hand instead, create a **Static Site** with build command `npm ci && npm run build` and publish
-directory `out`. Set `NEXT_PUBLIC_SITE_URL` to your own domain so the sitemap uses it.
-
-The `out/` folder is plain HTML, CSS and JS, so it also works on GitHub Pages, Netlify, Cloudflare Pages or any static host.
 
 ## Adding or correcting a guide
 
