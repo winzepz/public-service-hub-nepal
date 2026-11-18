@@ -1,0 +1,47 @@
+{
+  "slug": "national-id-card",
+  "category": "identity",
+  "icon": "id-card",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "National identity card (NID)", "ne": "राष्ट्रिय परिचयपत्र" },
+  "summary": {
+    "en": "Get your National Identity Number (NIN) and smart ID card. The NIN is now asked for in passports, banking and many other services.",
+    "ne": "राष्ट्रिय परिचयपत्र नम्बर (NIN) र स्मार्ट परिचयपत्र लिनुहोस्। अहिले राहदानी, बैंक र अन्य धेरै सेवामा NIN माग्ने गरिन्छ।"
+  },
+  "authority": { "en": "Department of National ID and Civil Registration (DoNIDCR)", "ne": "राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभाग" },
+  "keywords": ["nid", "national id", "nin", "smart card", "rastriya parichaya patra", "राष्ट्रिय परिचयपत्र", "परिचय पत्र", "pre-enrollment", "biometric", "donidcr"],
+  "eligibility": [
+    { "en": "Nepali citizens aged 16 or above with a citizenship certificate.", "ne": "नागरिकता प्रमाणपत्र भएका १६ वर्ष वा माथिका नेपाली नागरिक।" }
+  ],
+  "where": [
+    { "en": "Your District Administration Office or an NID enrollment centre (some wards and municipalities run camps).", "ne": "जिल्ला प्रशासन कार्यालय वा राष्ट्रिय परिचयपत्र दर्ता केन्द्र (केही वडा र नगरपालिकाले शिविर पनि चलाउँछन्)।" },
+    { "en": "Some Nepali embassies abroad also run enrollment.", "ne": "विदेशका केही नेपाली दूतावासले पनि दर्ता गर्छन्।" }
+  ],
+  "documents": [
+    { "en": "Original citizenship certificate", "ne": "नागरिकता प्रमाणपत्रको सक्कल" },
+    { "en": "Printed pre-enrollment form or its reference number (if you applied online)", "ne": "अनलाइन पूर्वदर्ता फारमको प्रिन्ट वा सन्दर्भ नम्बर (अनलाइन भरेको भए)" },
+    { "en": "Proof of date of birth if it is not on your citizenship (for example SEE certificate or birth registration)", "ne": "नागरिकतामा जन्ममिति नभए जन्ममितिको प्रमाण (जस्तै SEE प्रमाणपत्र वा जन्म दर्ता)" },
+    { "en": "Marriage registration or migration certificate if your name or address changed", "ne": "नाम वा ठेगाना परिवर्तन भएको भए विवाह दर्ता वा बसाइँसराइ प्रमाणपत्र" },
+    { "en": "A working mobile number for SMS updates", "ne": "SMS सूचनाका लागि चल्ने मोबाइल नम्बर" }
+  ],
+  "steps": [
+    { "en": "Ask your DAO whether it enrols directly from your citizenship number. Since 2026 many districts no longer need a separate pre-enrollment form.", "ne": "तपाईंको जिल्ला प्रशासन कार्यालयले नागरिकता नम्बरबाटै दर्ता गर्छ कि गर्दैन सोध्नुहोस्। २०२६ देखि धेरै जिल्लामा छुट्टै पूर्वदर्ता फारम चाहिँदैन।" },
+    { "en": "Otherwise, fill in the pre-enrollment form at enrollment.donidcr.gov.np and choose an office and date.", "ne": "नत्र enrollment.donidcr.gov.np मा पूर्वदर्ता फारम भरी कार्यालय र मिति छान्नुहोस्।" },
+    { "en": "Visit the enrollment centre with your original citizenship. Your photo, fingerprints, iris and signature are captured.", "ne": "सक्कल नागरिकता लिएर दर्ता केन्द्र जानुहोस्। फोटो, औंठाछाप, आँखाको नानी र हस्ताक्षर लिइन्छ।" },
+    { "en": "Keep the enrollment slip. Your NIN is issued first (check by SMS or online); the physical card is distributed later.", "ne": "दर्ता रसिद सुरक्षित राख्नुहोस्। पहिले NIN जारी हुन्छ (SMS वा अनलाइनबाट हेर्नुहोस्); कार्ड पछि वितरण गरिन्छ।" },
+    { "en": "Link your NIN in the Nagarik App to use it digitally.", "ne": "डिजिटल रूपमा प्रयोग गर्न नागरिक एपमा NIN जोड्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Enrollment and first card", "ne": "दर्ता र पहिलो कार्ड" }, "amount": { "en": "Free", "ne": "निःशुल्क" } }
+  ],
+  "time": {
+    "en": "The NIN is usually issued within days. The physical card can take several months.",
+    "ne": "NIN प्रायः केही दिनमै जारी हुन्छ। कार्ड आउन केही महिना लाग्न सक्छ।"
+  },
+  "portals": ["nid-enroll", "donidcr", "nagarik"],
+  "tips": [
+    { "en": "You can use your NIN for a passport application even before the physical card arrives.", "ne": "कार्ड नआउँदै पनि राहदानी आवेदनमा NIN प्रयोग गर्न सकिन्छ।" },
+    { "en": "A rejected online pre-enrollment form stays valid for 15 days. After that, you need to fill in a new one.", "ne": "अस्वीकृत अनलाइन पूर्वदर्ता फारम १५ दिनसम्म मान्य हुन्छ। त्यसपछि नयाँ फारम भर्नुपर्छ।" }
+  ]
+}

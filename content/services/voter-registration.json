@@ -1,0 +1,42 @@
+{
+  "slug": "voter-registration",
+  "category": "identity",
+  "icon": "ballot",
+  "lastReviewed": "2026-11",
+  "title": { "en": "Voter registration", "ne": "मतदाता नामावली दर्ता" },
+  "summary": {
+    "en": "Get your name on the voter roll so you can vote in federal, provincial and local elections, and receive a voter ID card.",
+    "ne": "संघीय, प्रदेश र स्थानीय निर्वाचनमा मतदान गर्न मतदाता नामावलीमा नाम दर्ता गर्नुहोस् र मतदाता परिचयपत्र लिनुहोस्।"
+  },
+  "authority": { "en": "Election Commission Nepal and District Election Offices", "ne": "निर्वाचन आयोग र जिल्ला निर्वाचन कार्यालय" },
+  "keywords": ["voter", "voter id", "voter card", "election", "matadata", "मतदाता", "निर्वाचन", "vote", "nirvachan"],
+  "eligibility": [
+    { "en": "Nepali citizens who are 18 or older on the cut-off date the Election Commission announces.", "ne": "निर्वाचन आयोगले तोकेको मितिमा १८ वर्ष पूरा भएका नेपाली नागरिक।" }
+  ],
+  "where": [
+    { "en": "Your District Election Office, or ward-level mobile registration camps announced by the Election Commission.", "ne": "जिल्ला निर्वाचन कार्यालय, वा निर्वाचन आयोगले घोषणा गरेका वडास्तरीय घुम्ती दर्ता शिविर।" }
+  ],
+  "documents": [
+    { "en": "Original citizenship certificate and a photocopy", "ne": "नागरिकता प्रमाणपत्रको सक्कल र फोटोकपी" },
+    { "en": "If registering where you currently live instead of your permanent address: proof of residence or ward recommendation, as asked by the office", "ne": "स्थायी ठेगानाको सट्टा हाल बसोबास गरेको ठाउँमा दर्ता गर्दा: कार्यालयले मागे अनुसार बसोबासको प्रमाण वा वडा सिफारिस" },
+    { "en": "Migration certificate if you moved permanently from another district", "ne": "अर्को जिल्लाबाट स्थायी रूपमा बसाइँ सरेको भए बसाइँसराइ प्रमाणपत्र" }
+  ],
+  "steps": [
+    { "en": "Check the Election Commission notice. Registration pauses after an election is announced.", "ne": "निर्वाचन आयोगको सूचना हेर्नुहोस्। निर्वाचन घोषणा भएपछि दर्ता रोकिन्छ।" },
+    { "en": "Visit the District Election Office or a camp with your citizenship certificate.", "ne": "नागरिकता लिएर जिल्ला निर्वाचन कार्यालय वा शिविरमा जानुहोस्।" },
+    { "en": "Fill in the registration form. Your photo and fingerprints are captured.", "ne": "दर्ता फारम भर्नुहोस्। फोटो र औंठाछाप लिइन्छ।" },
+    { "en": "Keep the receipt. Check your name on the voter list on the Election Commission website.", "ne": "रसिद राख्नुहोस्। निर्वाचन आयोगको वेबसाइटमा मतदाता नामावलीमा आफ्नो नाम जाँच गर्नुहोस्।" },
+    { "en": "Collect your voter ID card when it is distributed, usually before an election.", "ne": "मतदाता परिचयपत्र वितरण हुँदा (प्रायः निर्वाचनअघि) बुझ्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Voter registration", "ne": "मतदाता दर्ता" }, "amount": { "en": "Free", "ne": "निःशुल्क" } }
+  ],
+  "time": {
+    "en": "Registration is done in one visit. Voter ID cards are distributed later.",
+    "ne": "एकै पटकमा दर्ता हुन्छ। मतदाता परिचयपत्र पछि वितरण गरिन्छ।"
+  },
+  "portals": ["election"],
+  "tips": [
+    { "en": "Register early. You cannot be added to the roll once an election has been announced.", "ne": "छिटै दर्ता गर्नुहोस्। निर्वाचन घोषणा भइसकेपछि नामावलीमा नाम थप्न सकिँदैन।" }
+  ]
+}

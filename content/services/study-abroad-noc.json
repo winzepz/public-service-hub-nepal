@@ -1,0 +1,45 @@
+{
+  "slug": "study-abroad-noc",
+  "category": "travel",
+  "icon": "graduation",
+  "lastReviewed": "2026-11",
+  "title": { "en": "No Objection Certificate (NOC) for study abroad", "ne": "विदेश अध्ययनका लागि अनुमति पत्र (NOC)" },
+  "summary": {
+    "en": "The letter from the Ministry of Education that lets your bank send foreign currency for tuition and living costs abroad.",
+    "ne": "विदेशमा शुल्क र बसाइ खर्च पठाउन बैंकलाई चाहिने शिक्षा मन्त्रालयको अनुमति पत्र।"
+  },
+  "authority": { "en": "Ministry of Education, Science and Technology (MoEST)", "ne": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय" },
+  "keywords": ["noc", "no objection", "study abroad", "student visa", "abroad study", "moest", "अनुमति पत्र", "विदेश अध्ययन", "foreign exchange", "australia", "japan", "uk", "usa"],
+  "eligibility": [
+    { "en": "Students admitted to a recognised foreign institution who need to transfer fees from Nepal.", "ne": "मान्यता प्राप्त विदेशी शिक्षण संस्थामा भर्ना भई नेपालबाट शुल्क पठाउनुपर्ने विद्यार्थी।" }
+  ],
+  "where": [
+    { "en": "Online at noc.moest.gov.np. You normally do not need to visit the ministry.", "ne": "noc.moest.gov.np मा अनलाइन। सामान्यतया मन्त्रालय जानु पर्दैन।" }
+  ],
+  "documents": [
+    { "en": "Offer or admission letter from the foreign institution", "ne": "विदेशी शिक्षण संस्थाको भर्ना वा प्रस्ताव पत्र" },
+    { "en": "Passport or citizenship certificate (scan)", "ne": "राहदानी वा नागरिकता प्रमाणपत्र (स्क्यान)" },
+    { "en": "Academic transcripts and certificates of your last qualification", "ne": "पछिल्लो योग्यताको शैक्षिक लब्धाङ्क पत्र र प्रमाणपत्र" },
+    { "en": "Fee invoice or statement of estimated costs from the institution", "ne": "संस्थाको शुल्क विवरण वा अनुमानित खर्चको विवरण" },
+    { "en": "Name of the bank and branch that will transfer the money", "ne": "रकम पठाउने बैंक र शाखाको नाम" }
+  ],
+  "steps": [
+    { "en": "Create an account at noc.moest.gov.np.", "ne": "noc.moest.gov.np मा खाता बनाउनुहोस्।" },
+    { "en": "Fill in your study details, the institution, the country and your bank.", "ne": "अध्ययन विवरण, शिक्षण संस्था, देश र बैंक भर्नुहोस्।" },
+    { "en": "Upload the documents and pay the service fee online.", "ne": "कागजात अपलोड गरी सेवा शुल्क अनलाइन तिर्नुहोस्।" },
+    { "en": "Download the approved NOC. It has a QR code the bank verifies.", "ne": "स्वीकृत NOC डाउनलोड गर्नुहोस्। यसमा बैंकले रुजु गर्ने QR कोड हुन्छ।" },
+    { "en": "Take the NOC to your bank to exchange and send the fees.", "ne": "NOC लिएर शुल्क पठाउन बैंक जानुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Online service fee", "ne": "अनलाइन सेवा शुल्क" }, "amount": { "en": "Shown on the portal before payment", "ne": "भुक्तानीअघि पोर्टलमा देखाइन्छ" } }
+  ],
+  "time": {
+    "en": "Usually 1 to 3 working days.",
+    "ne": "प्रायः १ देखि ३ कार्यदिन।"
+  },
+  "portals": ["noc", "moest"],
+  "tips": [
+    { "en": "Your name must match exactly across passport, academic documents and offer letter.", "ne": "राहदानी, शैक्षिक कागजात र भर्ना पत्रमा नाम ठ्याक्कै मिल्नुपर्छ।" },
+    { "en": "The NOC is tied to the bank you name. Choose the bank before applying.", "ne": "NOC तपाईंले उल्लेख गरेको बैंकसँग जोडिन्छ। आवेदनअघि नै बैंक छान्नुहोस्।" }
+  ]
+}

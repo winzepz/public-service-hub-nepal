@@ -1,0 +1,53 @@
+{
+  "slug": "land-ownership-transfer",
+  "category": "land-property",
+  "icon": "land",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Land ownership transfer (registration pass)", "ne": "जग्गा रजिस्ट्रेसन पास (राजीनामा)" },
+  "summary": {
+    "en": "Transfer land from seller to buyer at the Land Revenue Office (Malpot). The buyer gets a new land ownership certificate (lalpurja).",
+    "ne": "मालपोत कार्यालयमा बिक्रेताबाट खरिदकर्ताको नाममा जग्गा हस्तान्तरण। खरिदकर्ताले नयाँ जग्गाधनी प्रमाण पुर्जा (लालपुर्जा) पाउँछन्।"
+  },
+  "authority": { "en": "Land Revenue Office (Malpot), Department of Land Management and Archive", "ne": "मालपोत कार्यालय, भूमि व्यवस्थापन तथा अभिलेख विभाग" },
+  "keywords": ["land", "land registration", "lalpurja", "लालपुर्जा", "malpot", "मालपोत", "rajinama", "राजीनामा", "jagga", "जग्गा", "property", "plot", "napi", "naksa"],
+  "eligibility": [
+    { "en": "The registered landowner (seller) and the buyer. Both must be present or represented by a valid power of attorney.", "ne": "दर्तावाला जग्गाधनी (बिक्रेता) र खरिदकर्ता। दुवै उपस्थित हुनुपर्छ वा मान्य मुख्तियारनामामार्फत प्रतिनिधित्व हुनुपर्छ।" }
+  ],
+  "where": [
+    { "en": "Land Revenue Office (Malpot) for the area where the land is located.", "ne": "जग्गा रहेको क्षेत्रको मालपोत कार्यालय।" },
+    { "en": "Survey Office (Napi) for the map and trace, and your ward office for local certificates.", "ne": "नक्सा र ट्रेसका लागि नापी कार्यालय, र स्थानीय प्रमाणपत्रका लागि वडा कार्यालय।" }
+  ],
+  "documents": [
+    { "en": "Seller's original land ownership certificate (lalpurja)", "ne": "बिक्रेताको सक्कल जग्गाधनी प्रमाण पुर्जा (लालपुर्जा)" },
+    { "en": "Seller's and buyer's citizenship certificates (originals and photocopies)", "ne": "बिक्रेता र खरिदकर्ताको नागरिकता (सक्कल र फोटोकपी)" },
+    { "en": "Passport-size photos of seller and buyer (usually 2 to 3 each)", "ne": "बिक्रेता र खरिदकर्ताको पासपोर्ट साइज फोटो (प्रायः २ देखि ३ प्रति)" },
+    { "en": "Plot map and trace (field book copy) from the Survey Office", "ne": "नापी कार्यालयको कित्ता नक्सा र ट्रेस (फिल्ड बुक प्रतिलिपि)" },
+    { "en": "Receipt showing this year's land/property tax is paid to the local level", "ne": "स्थानीय तहमा यस वर्षको भूमि/सम्पत्ति कर तिरेको रसिद" },
+    { "en": "Boundary (char killa) and road access certificate from the ward", "ne": "वडाबाट चार किल्ला र बाटो सम्बन्धी सिफारिस" },
+    { "en": "Sale deed prepared by a licensed deed writer (lekhapadhi byabasayi)", "ne": "इजाजतप्राप्त लेखापढी व्यवसायीले तयार गरेको राजीनामा लिखत" },
+    { "en": "For transfers within the family: relationship verification certificate (may reduce fees)", "ne": "परिवारभित्रको हस्तान्तरणका लागि: नाता प्रमाणित प्रमाणपत्र (शुल्कमा छुट हुन सक्छ)" }
+  ],
+  "steps": [
+    { "en": "Before paying anything, check at the Malpot office that the land is in the seller's name and is not frozen (rokka) or mortgaged.", "ne": "कुनै रकम दिनुअघि मालपोतमा जग्गा बिक्रेताकै नाममा छ र रोक्का वा धितोमा छैन भन्ने जाँच गर्नुहोस्।" },
+    { "en": "Get the ward's char killa certificate and pay this year's land tax.", "ne": "वडाबाट चार किल्ला सिफारिस लिनुहोस् र यस वर्षको भूमि कर तिर्नुहोस्।" },
+    { "en": "Collect the plot map and trace from the Survey Office.", "ne": "नापी कार्यालयबाट कित्ता नक्सा र ट्रेस लिनुहोस्।" },
+    { "en": "Have the sale deed prepared by a licensed deed writer.", "ne": "इजाजतप्राप्त लेखापढी व्यवसायीबाट राजीनामा लिखत तयार गराउनुहोस्।" },
+    { "en": "Submit at Malpot. The office values the land and calculates registration fee and the seller's capital gains tax. Pay these at the counter or bank.", "ne": "मालपोतमा पेस गर्नुहोस्। कार्यालयले जग्गाको मूल्याङ्कन गरी रजिस्ट्रेसन शुल्क र बिक्रेताको पुँजीगत लाभ कर हिसाब गर्छ। काउन्टर वा बैंकमा तिर्नुहोस्।" },
+    { "en": "Both parties confirm before the officer with photos and thumbprints. The buyer receives the new lalpurja.", "ne": "दुवै पक्ष फोटो र औंठाछापसहित अधिकारीसामु सहमति जनाउँछन्। खरिदकर्ताले नयाँ लालपुर्जा पाउँछन्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Registration fee", "ne": "रजिस्ट्रेसन शुल्क" }, "amount": { "en": "A percentage of the property value, set by location; discounts for women buyers", "ne": "स्थान अनुसार सम्पत्ति मूल्यको निश्चित प्रतिशत; महिला खरिदकर्तालाई छुट" } },
+    { "label": { "en": "Capital gains tax (paid by seller)", "ne": "पुँजीगत लाभ कर (बिक्रेताले तिर्ने)" }, "amount": { "en": "Under the Income Tax Act, based on how long the land was held", "ne": "आयकर ऐन अनुसार, जग्गा राखेको अवधिका आधारमा" } },
+    { "label": { "en": "Deed writer's service charge", "ne": "लेखापढी व्यवसायीको सेवा शुल्क" }, "amount": { "en": "Agreed with the deed writer", "ne": "लेखापढी व्यवसायीसँग तय भए अनुसार" } }
+  ],
+  "time": {
+    "en": "Usually the same day once all documents are ready. Busy offices may take longer.",
+    "ne": "सबै कागजात तयार भए प्रायः सोही दिन। भीड हुने कार्यालयमा बढी समय लाग्न सक्छ।"
+  },
+  "portals": ["dolma"],
+  "tips": [
+    { "en": "Pay through a bank transfer or cheque so there is a record of the payment.", "ne": "भुक्तानीको अभिलेख रहोस् भनेर बैंक ट्रान्सफर वा चेकबाट रकम दिनुहोस्।" },
+    { "en": "Visit the land with the plot map before buying, to make sure the boundaries on the ground match.", "ne": "किन्नुअघि कित्ता नक्सा लिएर जग्गा हेर्नुहोस्, र जमिनको सिमाना नक्सासँग मिल्छ कि जाँच गर्नुहोस्।" }
+  ]
+}

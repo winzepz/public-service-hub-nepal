@@ -1,0 +1,44 @@
+{
+  "slug": "birth-registration",
+  "category": "civil",
+  "icon": "birth",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Birth registration", "ne": "जन्म दर्ता" },
+  "summary": {
+    "en": "Register a child's birth at the ward office. It is free within 35 days and is needed later for citizenship, school and passports.",
+    "ne": "वडा कार्यालयमा बच्चाको जन्म दर्ता गर्नुहोस्। ३५ दिनभित्र निःशुल्क हुन्छ र पछि नागरिकता, विद्यालय र राहदानीका लागि चाहिन्छ।"
+  },
+  "authority": { "en": "Ward office of your municipality or rural municipality (vital registration)", "ne": "नगरपालिका वा गाउँपालिकाको वडा कार्यालय (व्यक्तिगत घटना दर्ता)" },
+  "keywords": ["birth registration", "birth certificate", "janma darta", "जन्म दर्ता", "baby", "child", "ward", "vital registration", "व्यक्तिगत घटना"],
+  "eligibility": [
+    { "en": "Parents or the head of the family can register (the informant). Register within 35 days of birth to avoid a late fee.", "ne": "बाबु, आमा वा परिवारका मूली (सूचक) ले दर्ता गर्न सक्छन्। ढिलो शुल्कबाट बच्न जन्मेको ३५ दिनभित्र दर्ता गर्नुहोस्।" }
+  ],
+  "where": [
+    { "en": "The ward office of the family's permanent address.", "ne": "परिवारको स्थायी ठेगानाको वडा कार्यालय।" }
+  ],
+  "documents": [
+    { "en": "Hospital birth certificate or discharge paper (if born in a health facility)", "ne": "अस्पतालको जन्म प्रमाणपत्र वा डिस्चार्ज पत्र (स्वास्थ्य संस्थामा जन्मेको भए)" },
+    { "en": "Father's and mother's citizenship certificates (originals and photocopies)", "ne": "बाबु र आमाको नागरिकता प्रमाणपत्र (सक्कल र फोटोकपी)" },
+    { "en": "Parents' marriage registration certificate, if available", "ne": "बाबुआमाको विवाह दर्ता प्रमाणपत्र, भएमा" },
+    { "en": "Informant's citizenship certificate, if someone other than the parents is registering", "ne": "बाबुआमाबाहेक अरूले दर्ता गर्दै भए सूचकको नागरिकता प्रमाणपत्र" },
+    { "en": "For late registration: application explaining the delay and any other proof the ward asks for", "ne": "ढिलो दर्ताका लागि: ढिलाइको कारण खुलाएको निवेदन र वडाले मागेका अन्य प्रमाण" }
+  ],
+  "steps": [
+    { "en": "Visit the ward office with the documents. Fill in the birth registration form.", "ne": "कागजात लिएर वडा कार्यालय जानुहोस्। जन्म दर्ता फारम भर्नुहोस्।" },
+    { "en": "The registrar checks the details and enters them in the national vital registration system.", "ne": "पञ्जिकाधिकारीले विवरण जाँची राष्ट्रिय व्यक्तिगत घटना दर्ता प्रणालीमा प्रविष्ट गर्छन्।" },
+    { "en": "Receive the birth registration certificate. Ask for an English version too if you will need it for a passport or visa.", "ne": "जन्म दर्ता प्रमाणपत्र लिनुहोस्। राहदानी वा भिसाका लागि चाहिने भए अंग्रेजी संस्करण पनि माग्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Within 35 days of birth", "ne": "जन्मेको ३५ दिनभित्र" }, "amount": { "en": "Free", "ne": "निःशुल्क" } },
+    { "label": { "en": "After 35 days", "ne": "३५ दिनपछि" }, "amount": { "en": "Small late fee set by the local level", "ne": "स्थानीय तहले तोकेको सानो ढिलो शुल्क" } }
+  ],
+  "time": {
+    "en": "Same day.",
+    "ne": "सोही दिन।"
+  },
+  "portals": ["donidcr", "mofaga"],
+  "tips": [
+    { "en": "Decide the final spelling of the child's name before registering. It carries through to citizenship and passport.", "ne": "दर्ता गर्नुअघि बच्चाको नामको अन्तिम हिज्जे तय गर्नुहोस्। यही नाम नागरिकता र राहदानीसम्म जान्छ।" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "bluebook-renewal",
+  "category": "transport",
+  "icon": "bluebook",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Bluebook renewal and annual vehicle tax", "ne": "ब्लुबुक नवीकरण र वार्षिक सवारी कर" },
+  "summary": {
+    "en": "Pay your vehicle's annual tax and renew the bluebook every fiscal year, by the end of Ashadh (mid-July).",
+    "ne": "हरेक आर्थिक वर्ष असार मसान्तभित्र सवारी साधनको वार्षिक कर तिरी ब्लुबुक नवीकरण गर्नुहोस्।"
+  },
+  "authority": { "en": "Provincial Transport Management Offices", "ne": "प्रदेशका यातायात व्यवस्था कार्यालय" },
+  "keywords": ["bluebook", "blue book", "billbook", "bill book", "vehicle tax", "bike tax", "sawari kar", "सवारी कर", "ब्लुबुक", "नवीकरण", "renewal", "motorcycle tax"],
+  "eligibility": [
+    { "en": "Every owner of a registered vehicle, once per fiscal year.", "ne": "दर्ता भएका सबै सवारी धनी, प्रत्येक आर्थिक वर्ष एक पटक।" }
+  ],
+  "where": [
+    { "en": "The Transport Management Office of your province, or online through the payment options your province offers (for example the Nagarik App or digital wallets).", "ne": "आफ्नो प्रदेशको यातायात व्यवस्था कार्यालय, वा प्रदेशले उपलब्ध गराएको अनलाइन भुक्तानी माध्यम (जस्तै नागरिक एप वा डिजिटल वालेट)।" }
+  ],
+  "documents": [
+    { "en": "Original bluebook", "ne": "सक्कल ब्लुबुक" },
+    { "en": "Third-party insurance valid for the new year (renew it first)", "ne": "नयाँ वर्षका लागि मान्य तेस्रो पक्ष बीमा (पहिले बीमा नवीकरण गर्नुहोस्)" },
+    { "en": "Vehicle emission (pollution) test certificate, where required", "ne": "आवश्यक भएका ठाउँमा सवारी प्रदूषण जाँच प्रमाणपत्र" },
+    { "en": "Owner's citizenship photocopy (some offices ask for it)", "ne": "धनीको नागरिकताको फोटोकपी (कतिपय कार्यालयले माग्छन्)" }
+  ],
+  "steps": [
+    { "en": "Renew the third-party insurance. The tax counter will not accept your file without it.", "ne": "तेस्रो पक्ष बीमा नवीकरण गर्नुहोस्। बीमाबिना कर काउन्टरले फाइल लिँदैन।" },
+    { "en": "Pay the annual vehicle tax and renewal charge at the office or online.", "ne": "वार्षिक सवारी कर र नवीकरण दस्तुर कार्यालयमा वा अनलाइन तिर्नुहोस्।" },
+    { "en": "Get the payment entered and stamped in your bluebook (if you paid online, follow your province's instructions for endorsement).", "ne": "भुक्तानी ब्लुबुकमा चढाई छाप लगाउनुहोस् (अनलाइन तिरेको भए प्रदेशको निर्देशन अनुसार प्रमाणित गराउनुहोस्)।" }
+  ],
+  "fees": [
+    { "label": { "en": "Motorcycle up to 125 cc (per year)", "ne": "मोटरसाइकल १२५ सीसीसम्म (प्रति वर्ष)" }, "amount": { "en": "Rs 3,000", "ne": "रु. ३,०००" } },
+    { "label": { "en": "Motorcycle 126 to 150 cc", "ne": "मोटरसाइकल १२६ देखि १५० सीसी" }, "amount": { "en": "Rs 5,000", "ne": "रु. ५,०००" } },
+    { "label": { "en": "Motorcycle 151 to 225 cc", "ne": "मोटरसाइकल १५१ देखि २२५ सीसी" }, "amount": { "en": "Rs 6,500", "ne": "रु. ६,५००" } },
+    { "label": { "en": "Motorcycle 226 to 400 cc", "ne": "मोटरसाइकल २२६ देखि ४०० सीसी" }, "amount": { "en": "Rs 11,000", "ne": "रु. ११,०००" } },
+    { "label": { "en": "Cars, jeeps and other vehicles", "ne": "कार, जिप र अन्य सवारी" }, "amount": { "en": "By engine capacity and province", "ne": "इन्जिन क्षमता र प्रदेश अनुसार" } },
+    { "label": { "en": "Bluebook renewal charge", "ne": "ब्लुबुक नवीकरण दस्तुर" }, "amount": { "en": "About Rs 300", "ne": "करिब रु. ३००" } }
+  ],
+  "time": {
+    "en": "Same day at the counter. Online payments are instant.",
+    "ne": "काउन्टरमा सोही दिन। अनलाइन भुक्तानी तुरुन्तै हुन्छ।"
+  },
+  "portals": ["dotm", "nagarik"],
+  "tips": [
+    { "en": "The motorcycle rates shown are Bagmati Province rates for fiscal year 2082/83. Vehicle tax is set by each province, so others may differ.", "ne": "देखाइएका मोटरसाइकल दर आर्थिक वर्ष २०८२/८३ का लागि बागमती प्रदेशका हुन्। सवारी कर प्रत्येक प्रदेशले तोक्ने भएकाले अरू प्रदेशमा फरक हुन सक्छ।" },
+    { "en": "Late payment adds a fine that grows over time. Pay before the end of Ashadh.", "ne": "ढिलो तिरे समयसँगै बढ्ने जरिवाना लाग्छ। असार मसान्तअघि नै तिर्नुहोस्।" },
+    { "en": "Electric vehicles generally have lower tax rates.", "ne": "विद्युतीय सवारीमा सामान्यतया कम कर लाग्छ।" }
+  ]
+}

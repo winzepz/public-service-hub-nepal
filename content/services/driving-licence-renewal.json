@@ -1,0 +1,45 @@
+{
+  "slug": "driving-licence-renewal",
+  "category": "transport",
+  "icon": "licence",
+  "lastReviewed": "2026-11",
+  "title": { "en": "Driving licence renewal", "ne": "सवारी चालक अनुमतिपत्र नवीकरण" },
+  "summary": {
+    "en": "Renew a smart driving licence that has expired or is about to expire, mostly online.",
+    "ne": "म्याद सकिएको वा सकिन लागेको स्मार्ट सवारी चालक अनुमतिपत्र नवीकरण, धेरैजसो काम अनलाइनबाट।"
+  },
+  "authority": { "en": "Department of Transport Management and provincial Transport Management Offices", "ne": "यातायात व्यवस्था विभाग र प्रदेशका यातायात व्यवस्था कार्यालय" },
+  "keywords": ["license renewal", "licence renewal", "renew license", "lisens nawikaran", "लाइसेन्स नवीकरण", "अनुमतिपत्र नवीकरण", "expired license", "smart card"],
+  "eligibility": [
+    { "en": "Holders of a Nepali driving licence that has expired or is close to expiry.", "ne": "म्याद सकिएको वा सकिन लागेको नेपाली सवारी चालक अनुमतिपत्र भएका व्यक्ति।" },
+    { "en": "If the licence has been expired for a long time (generally more than a year), you may have to retake tests. Check with your office.", "ne": "धेरै समयदेखि (सामान्यतया एक वर्षभन्दा बढी) म्याद गुज्रेको भए फेरि परीक्षा दिनुपर्न सक्छ। आफ्नो कार्यालयमा सोध्नुहोस्।" }
+  ],
+  "where": [
+    { "en": "Online renewal at applydl.dotm.gov.np, then the licence office if biometrics or collection is needed.", "ne": "applydl.dotm.gov.np मा अनलाइन नवीकरण, बायोमेट्रिक वा कार्ड बुझ्न आवश्यक परे अनुमतिपत्र कार्यालय।" }
+  ],
+  "documents": [
+    { "en": "Your current smart driving licence card (or its number and a copy if lost)", "ne": "हालको स्मार्ट सवारी चालक अनुमतिपत्र (हराएको भए नम्बर र प्रतिलिपि)" },
+    { "en": "Original citizenship certificate and a photocopy", "ne": "नागरिकता प्रमाणपत्रको सक्कल र फोटोकपी" },
+    { "en": "Printed online renewal form", "ne": "अनलाइन नवीकरण फारमको प्रिन्ट" },
+    { "en": "Payment receipt (renewal fee and any late fine)", "ne": "भुक्तानी रसिद (नवीकरण शुल्क र ढिलो भए जरिवाना)" }
+  ],
+  "steps": [
+    { "en": "Log in at applydl.dotm.gov.np and choose renewal. Check your details are correct.", "ne": "applydl.dotm.gov.np मा लगइन गरी नवीकरण छान्नुहोस्। विवरण सही छ कि जाँच गर्नुहोस्।" },
+    { "en": "Pay the renewal fee online (and any late fine).", "ne": "नवीकरण शुल्क (र जरिवाना भए) अनलाइन तिर्नुहोस्।" },
+    { "en": "Visit the licence office on the date given if biometrics are needed.", "ne": "बायोमेट्रिक आवश्यक भए दिइएको मितिमा अनुमतिपत्र कार्यालय जानुहोस्।" },
+    { "en": "Collect the new smart card when it is printed.", "ne": "छापिएपछि नयाँ स्मार्ट कार्ड बुझ्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Renewal, motorcycle or scooter (A, K)", "ne": "नवीकरण, मोटरसाइकल वा स्कुटर (A, K)" }, "amount": { "en": "Rs 3,000 in most provinces", "ne": "धेरैजसो प्रदेशमा रु. ३,०००" } },
+    { "label": { "en": "Renewal, car, jeep or van (B)", "ne": "नवीकरण, कार, जिप वा भ्यान (B)" }, "amount": { "en": "Rs 4,000 (Rs 5,000 in Madhesh)", "ne": "रु. ४,००० (मधेशमा रु. ५,०००)" } },
+    { "label": { "en": "Late renewal fine", "ne": "ढिलो नवीकरण जरिवाना" }, "amount": { "en": "Increases with delay; set by province", "ne": "ढिलाइ अनुसार बढ्छ; प्रदेशले तोके अनुसार" } }
+  ],
+  "time": {
+    "en": "A few days to a few weeks, depending on card printing at your office.",
+    "ne": "कार्यालयमा कार्ड छपाइ अनुसार केही दिनदेखि केही हप्तासम्म।"
+  },
+  "portals": ["dl-apply", "dotm"],
+  "tips": [
+    { "en": "Renew before the expiry date to avoid fines, and carry the payment receipt while you wait for the new card.", "ne": "जरिवाना नलागोस् भन्न म्याद सकिनुअघि नवीकरण गर्नुहोस्, र नयाँ कार्ड नआउञ्जेल भुक्तानी रसिद साथमा राख्नुहोस्।" }
+  ]
+}

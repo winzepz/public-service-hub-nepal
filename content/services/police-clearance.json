@@ -1,0 +1,49 @@
+{
+  "slug": "police-clearance",
+  "category": "travel",
+  "icon": "police",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Police clearance certificate (police report)", "ne": "प्रहरी चारित्रिक प्रमाणपत्र (प्रहरी रिपोर्ट)" },
+  "summary": {
+    "en": "A certificate showing you have no criminal record in Nepal, often required for visas, study and jobs abroad. Applied for fully online.",
+    "ne": "नेपालमा आपराधिक अभिलेख नरहेको प्रमाणपत्र, जुन प्रायः भिसा, अध्ययन र विदेशमा रोजगारीका लागि चाहिन्छ। पूरै अनलाइनबाट आवेदन दिइन्छ।"
+  },
+  "authority": { "en": "Nepal Police Headquarters", "ne": "प्रहरी प्रधान कार्यालय, नेपाल प्रहरी" },
+  "keywords": ["police report", "police clearance", "pcc", "character certificate", "prahari report", "प्रहरी रिपोर्ट", "चारित्रिक", "opcr", "visa"],
+  "eligibility": [
+    { "en": "Nepali citizens who need a criminal record check, usually for visas, immigration, higher study or employment.", "ne": "भिसा, अध्यागमन, उच्च शिक्षा वा रोजगारीका लागि आपराधिक अभिलेख जाँच चाहिने नेपाली नागरिक।" },
+    { "en": "Applicants abroad can also apply online.", "ne": "विदेशमा रहेका आवेदकले पनि अनलाइनबाट आवेदन दिन सक्छन्।" }
+  ],
+  "where": [
+    { "en": "Online at opcr.nepalpolice.gov.np. Most applicants do not need to visit any office.", "ne": "opcr.nepalpolice.gov.np मा अनलाइन। धेरैजसो आवेदकलाई कुनै कार्यालय जानु पर्दैन।" },
+    { "en": "If the receiving country needs it attested, take the printed certificate to the Department of Consular Services, Kathmandu.", "ne": "पठाउने देशले प्रमाणीकरण माग्छ भने छापिएको प्रमाणपत्र कन्सुलर सेवा विभाग, काठमाडौंमा लैजानुहोस्।" }
+  ],
+  "documents": [
+    { "en": "Scan of citizenship certificate (front and back, clear and readable)", "ne": "नागरिकता प्रमाणपत्रको स्क्यान (अगाडि र पछाडि, प्रस्ट र पढ्न मिल्ने)" },
+    { "en": "Scan of passport photo page (valid passport)", "ne": "राहदानीको फोटो भएको पानाको स्क्यान (मान्य राहदानी)" },
+    { "en": "Recent passport-size photo (digital)", "ne": "हालै खिचिएको पासपोर्ट साइजको फोटो (डिजिटल)" },
+    { "en": "Email address and mobile number you can access", "ne": "आफूले प्रयोग गर्ने इमेल ठेगाना र मोबाइल नम्बर" },
+    { "en": "If your name changed (for example after marriage): marriage registration certificate or other proof", "ne": "नाम परिवर्तन भएको भए (जस्तै विवाहपछि): विवाह दर्ता प्रमाणपत्र वा अन्य प्रमाण" }
+  ],
+  "steps": [
+    { "en": "Create an account on opcr.nepalpolice.gov.np using your email and mobile number.", "ne": "इमेल र मोबाइल नम्बर प्रयोग गरी opcr.nepalpolice.gov.np मा खाता बनाउनुहोस्।" },
+    { "en": "Fill in the application: personal details, addresses, passport number and the purpose and country.", "ne": "आवेदन भर्नुहोस्: व्यक्तिगत विवरण, ठेगाना, राहदानी नम्बर, प्रयोजन र देश।" },
+    { "en": "Upload the scanned documents and submit.", "ne": "स्क्यान गरिएका कागजात अपलोड गरी पेस गर्नुहोस्।" },
+    { "en": "Track the status in your account. Respond quickly if police ask for corrections.", "ne": "खातामा आवेदनको अवस्था हेर्नुहोस्। प्रहरीले सच्याउन भनेमा छिटो जवाफ दिनुहोस्।" },
+    { "en": "Download the certificate. It carries a QR code that embassies use to verify it.", "ne": "प्रमाणपत्र डाउनलोड गर्नुहोस्। यसमा दूतावासले रुजु गर्ने QR कोड हुन्छ।" }
+  ],
+  "fees": [
+    { "label": { "en": "Online application", "ne": "अनलाइन आवेदन" }, "amount": { "en": "Free", "ne": "निःशुल्क" } },
+    { "label": { "en": "Attestation at Department of Consular Services (only if required)", "ne": "कन्सुलर सेवा विभागमा प्रमाणीकरण (आवश्यक भएमा मात्र)" }, "amount": { "en": "Per document, as set by the department", "ne": "प्रति कागजात, विभागले तोके अनुसार" } }
+  ],
+  "time": {
+    "en": "Usually 2 to 5 working days after submission.",
+    "ne": "पेस गरेपछि प्रायः २ देखि ५ कार्यदिन।"
+  },
+  "portals": ["opcr", "nepal-police", "consular"],
+  "tips": [
+    { "en": "The online report is free. Nepal Police has warned against anyone asking for money to speed it up.", "ne": "अनलाइन प्रतिवेदन निःशुल्क छ। छिटो बनाइदिन्छु भनी पैसा माग्नेबाट सावधान रहन नेपाल प्रहरीले सचेत गराएको छ।" },
+    { "en": "Many countries only accept a report issued within the last 6 months, so apply close to when you need it.", "ne": "धेरै देशले पछिल्लो ६ महिनाभित्र जारी प्रतिवेदन मात्र मान्छन्, त्यसैले आवश्यक पर्ने समय नजिकै आवेदन दिनुहोस्।" }
+  ]
+}

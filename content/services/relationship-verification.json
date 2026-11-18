@@ -1,0 +1,43 @@
+{
+  "slug": "relationship-verification",
+  "category": "civil",
+  "icon": "family",
+  "lastReviewed": "2026-11",
+  "title": { "en": "Relationship verification certificate", "ne": "नाता प्रमाणित प्रमाणपत्र" },
+  "summary": {
+    "en": "A ward certificate that confirms how family members are related. It is commonly needed for visas, scholarships, insurance claims and inheritance.",
+    "ne": "परिवारका सदस्यबीचको नाता पुष्टि गर्ने वडाको प्रमाणपत्र। भिसा, छात्रवृत्ति, बीमा दाबी र अंशबन्डामा प्रायः चाहिन्छ।"
+  },
+  "authority": { "en": "Ward office of your municipality or rural municipality", "ne": "नगरपालिका वा गाउँपालिकाको वडा कार्यालय" },
+  "keywords": ["relationship certificate", "relationship verification", "nata pramanit", "नाता प्रमाणित", "family certificate", "visa", "sponsor", "ward"],
+  "eligibility": [
+    { "en": "Any family member who needs official proof of a relationship.", "ne": "नाताको आधिकारिक प्रमाण चाहिने परिवारका कुनै पनि सदस्य।" }
+  ],
+  "where": [
+    { "en": "The ward office of your permanent address.", "ne": "आफ्नो स्थायी ठेगानाको वडा कार्यालय।" }
+  ],
+  "documents": [
+    { "en": "Application letter to the ward office", "ne": "वडा कार्यालयलाई निवेदन" },
+    { "en": "Citizenship certificates of every adult listed (photocopies, originals for checking)", "ne": "सूचीमा रहने सबै वयस्कको नागरिकता (फोटोकपी, रुजुका लागि सक्कल)" },
+    { "en": "Birth registration certificates of children listed", "ne": "सूचीमा रहने बालबालिकाको जन्म दर्ता प्रमाणपत्र" },
+    { "en": "Marriage registration certificate, if a spouse is listed", "ne": "पति/पत्नी समावेश भए विवाह दर्ता प्रमाणपत्र" },
+    { "en": "One recent photo of each person listed", "ne": "सूचीमा रहने प्रत्येक व्यक्तिको हालैको एक प्रति फोटो" },
+    { "en": "Receipt showing this year's property or land tax is paid to the local level", "ne": "स्थानीय तहमा यस वर्षको सम्पत्ति वा भूमि कर तिरेको रसिद" }
+  ],
+  "steps": [
+    { "en": "Submit the application and documents at the ward office.", "ne": "वडा कार्यालयमा निवेदन र कागजात बुझाउनुहोस्।" },
+    { "en": "The ward checks its records and may ask a family member to confirm in person.", "ne": "वडाले अभिलेख जाँच गर्छ र परिवारका कुनै सदस्यलाई प्रत्यक्ष पुष्टि गर्न बोलाउन सक्छ।" },
+    { "en": "Pay the fee and collect the certificate signed by the ward chair. Ask for an English version if needed for a visa.", "ne": "शुल्क तिरी वडाध्यक्षको हस्ताक्षर भएको प्रमाणपत्र लिनुहोस्। भिसाका लागि चाहिने भए अंग्रेजी संस्करण माग्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Certificate", "ne": "प्रमाणपत्र" }, "amount": { "en": "Set by your local level's finance act", "ne": "स्थानीय तहको आर्थिक ऐन अनुसार" } }
+  ],
+  "time": {
+    "en": "Same day to 2 days.",
+    "ne": "सोही दिनदेखि २ दिनसम्म।"
+  },
+  "portals": ["consular", "mofaga"],
+  "tips": [
+    { "en": "Embassies often want the English version attested by the Department of Consular Services. Get that done before your visa appointment.", "ne": "दूतावासले प्रायः कन्सुलर सेवा विभागबाट प्रमाणित अंग्रेजी संस्करण माग्छन्। भिसा अन्तर्वार्ताअघि नै प्रमाणित गराउनुहोस्।" }
+  ]
+}

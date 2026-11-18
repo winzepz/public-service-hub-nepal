@@ -1,0 +1,43 @@
+{
+  "slug": "pan-registration",
+  "category": "tax-business",
+  "icon": "pan",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Personal PAN registration", "ne": "व्यक्तिगत स्थायी लेखा नम्बर (प्यान) दर्ता" },
+  "summary": {
+    "en": "Get a Permanent Account Number for income tax. Employers, banks and freelance clients ask for it.",
+    "ne": "आयकरका लागि स्थायी लेखा नम्बर लिनुहोस्। रोजगारदाता, बैंक र फ्रिल्यान्स ग्राहकले यो माग्छन्।"
+  },
+  "authority": { "en": "Inland Revenue Department (IRD)", "ne": "आन्तरिक राजस्व विभाग" },
+  "keywords": ["pan", "pan card", "pan number", "permanent account number", "प्यान", "स्थायी लेखा नम्बर", "tax", "ird", "income tax", "salary", "freelance"],
+  "eligibility": [
+    { "en": "Anyone earning taxable income in Nepal, including employees and freelancers.", "ne": "नेपालमा करयोग्य आय आर्जन गर्ने जो कोही, कर्मचारी र फ्रिल्यान्सरसमेत।" }
+  ],
+  "where": [
+    { "en": "Register online at the IRD taxpayer portal, then visit the nearest Inland Revenue Office or Taxpayer Service Office.", "ne": "आन्तरिक राजस्व विभागको करदाता पोर्टलमा अनलाइन दर्ता गरी नजिकको आन्तरिक राजस्व कार्यालय वा करदाता सेवा कार्यालय जानुहोस्।" }
+  ],
+  "documents": [
+    { "en": "Online registration printout with your submission number", "ne": "पेस नम्बर सहितको अनलाइन दर्ताको प्रिन्ट" },
+    { "en": "Citizenship certificate (original and photocopy)", "ne": "नागरिकता प्रमाणपत्र (सक्कल र फोटोकपी)" },
+    { "en": "One passport-size photo", "ne": "एक प्रति पासपोर्ट साइज फोटो" }
+  ],
+  "steps": [
+    { "en": "On the IRD taxpayer portal, choose registration for PAN and fill in the individual form. Note the submission number.", "ne": "करदाता पोर्टलमा प्यान दर्ता छानी व्यक्तिगत फारम भर्नुहोस्। पेस नम्बर टिपेर राख्नुहोस्।" },
+    { "en": "Visit the Inland Revenue Office with the printout and documents.", "ne": "प्रिन्ट र कागजात लिएर आन्तरिक राजस्व कार्यालय जानुहोस्।" },
+    { "en": "Your details are verified and your photo is taken.", "ne": "विवरण रुजु गरी फोटो खिचिन्छ।" },
+    { "en": "Collect your PAN card, usually the same day.", "ne": "प्रायः सोही दिन प्यान कार्ड लिनुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "PAN registration and card", "ne": "प्यान दर्ता र कार्ड" }, "amount": { "en": "Free", "ne": "निःशुल्क" } }
+  ],
+  "time": {
+    "en": "Usually the same day.",
+    "ne": "प्रायः सोही दिन।"
+  },
+  "portals": ["taxpayer", "ird"],
+  "tips": [
+    { "en": "A person can hold only one PAN. Use the same number with every employer.", "ne": "एक व्यक्तिको एउटा मात्र प्यान हुन्छ। सबै रोजगारदातासँग उही नम्बर प्रयोग गर्नुहोस्।" },
+    { "en": "Businesses need a separate business PAN, and VAT registration if turnover crosses the VAT threshold.", "ne": "व्यवसायका लागि छुट्टै व्यावसायिक प्यान, र कारोबार सीमा नाघेमा भ्याट दर्ता चाहिन्छ।" }
+  ]
+}

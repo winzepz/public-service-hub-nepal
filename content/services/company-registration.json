@@ -1,0 +1,50 @@
+{
+  "slug": "company-registration",
+  "category": "tax-business",
+  "icon": "company",
+  "lastReviewed": "2026-11",
+  "title": { "en": "Private limited company registration", "ne": "प्राइभेट लिमिटेड कम्पनी दर्ता" },
+  "summary": {
+    "en": "Register a private limited company online with the Office of the Company Registrar, then get PAN or VAT and local business registration.",
+    "ne": "कम्पनी रजिस्ट्रारको कार्यालयमा अनलाइन प्राइभेट लिमिटेड कम्पनी दर्ता गर्नुहोस्, त्यसपछि प्यान वा भ्याट र स्थानीय व्यवसाय दर्ता गर्नुहोस्।"
+  },
+  "authority": { "en": "Office of the Company Registrar (OCR)", "ne": "कम्पनी रजिस्ट्रारको कार्यालय" },
+  "keywords": ["company registration", "pvt ltd", "private limited", "startup", "ocr", "company registrar", "कम्पनी दर्ता", "business", "moa", "aoa", "kampani"],
+  "eligibility": [
+    { "en": "One or more promoters (shareholders). Foreign investors also need approval from the Department of Industry.", "ne": "एक वा बढी संस्थापक (सेयरधनी)। विदेशी लगानीकर्तालाई उद्योग विभागको स्वीकृति पनि चाहिन्छ।" }
+  ],
+  "where": [
+    { "en": "Online at application.ocr.gov.np. OCR is in Tripureshwor, Kathmandu, if an in-person visit is needed.", "ne": "application.ocr.gov.np मा अनलाइन। प्रत्यक्ष जानुपरे कार्यालय त्रिपुरेश्वर, काठमाडौंमा छ।" }
+  ],
+  "documents": [
+    { "en": "Approved company name (reserved online)", "ne": "स्वीकृत कम्पनीको नाम (अनलाइन आरक्षित)" },
+    { "en": "Memorandum of Association (MoA) and Articles of Association (AoA)", "ne": "प्रबन्धपत्र (MoA) र नियमावली (AoA)" },
+    { "en": "Citizenship certificate copies of all promoters", "ne": "सबै संस्थापकको नागरिकताको प्रतिलिपि" },
+    { "en": "Passport-size photos of promoters", "ne": "संस्थापकहरूको पासपोर्ट साइज फोटो" },
+    { "en": "Promoters' agreement or consent letter", "ne": "संस्थापकबीचको सम्झौता वा मन्जुरीनामा" },
+    { "en": "If a company is a shareholder: its registration certificate and board resolution", "ne": "कम्पनी सेयरधनी भए: त्यसको दर्ता प्रमाणपत्र र सञ्चालक समितिको निर्णय" },
+    { "en": "Registration fee payment receipt", "ne": "दर्ता शुल्क तिरेको रसिद" }
+  ],
+  "steps": [
+    { "en": "Create an account on the OCR online system and check that your company name is available, then reserve it.", "ne": "कम्पनी रजिस्ट्रारको अनलाइन प्रणालीमा खाता खोली नाम उपलब्ध छ कि जाँच गरी आरक्षित गर्नुहोस्।" },
+    { "en": "Prepare the MoA and AoA (OCR provides templates) and upload them with the other documents.", "ne": "प्रबन्धपत्र र नियमावली तयार गरी (नमुना उपलब्ध छ) अन्य कागजातसँग अपलोड गर्नुहोस्।" },
+    { "en": "Pay the registration fee, which depends on the authorised capital.", "ne": "अधिकृत पुँजी अनुसारको दर्ता शुल्क तिर्नुहोस्।" },
+    { "en": "OCR reviews the application. Promoters may be asked to sign or verify in person.", "ne": "कार्यालयले आवेदन जाँच गर्छ। संस्थापकलाई हस्ताक्षर वा रुजुका लागि बोलाउन सकिन्छ।" },
+    { "en": "Download the registration certificate. Then register for PAN/VAT at IRD, register at your ward, and open a bank account.", "ne": "दर्ता प्रमाणपत्र डाउनलोड गर्नुहोस्। त्यसपछि आन्तरिक राजस्वमा प्यान/भ्याट, वडामा व्यवसाय दर्ता र बैंक खाता खोल्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Authorised capital up to Rs 1 lakh", "ne": "अधिकृत पुँजी रु. १ लाखसम्म" }, "amount": { "en": "Rs 1,000", "ne": "रु. १,०००" } },
+    { "label": { "en": "Rs 1 lakh to 5 lakh", "ne": "रु. १ लाखदेखि ५ लाखसम्म" }, "amount": { "en": "Rs 4,500", "ne": "रु. ४,५००" } },
+    { "label": { "en": "Rs 5 lakh to 25 lakh", "ne": "रु. ५ लाखदेखि २५ लाखसम्म" }, "amount": { "en": "Rs 9,500", "ne": "रु. ९,५००" } },
+    { "label": { "en": "Rs 25 lakh to 1 crore", "ne": "रु. २५ लाखदेखि १ करोडसम्म" }, "amount": { "en": "Rs 16,000", "ne": "रु. १६,०००" } }
+  ],
+  "time": {
+    "en": "Usually 1 to 7 working days after a complete application.",
+    "ne": "पूरा आवेदन पेस गरेपछि प्रायः १ देखि ७ कार्यदिन।"
+  },
+  "portals": ["ocr-apply", "ocr", "ird"],
+  "tips": [
+    { "en": "Sole proprietorships and partnership firms are registered elsewhere (Department of Commerce or the local level), not at OCR.", "ne": "एकल स्वामित्व र साझेदारी फर्म कम्पनी रजिस्ट्रारमा नभई अन्यत्र (वाणिज्य विभाग वा स्थानीय तह) दर्ता हुन्छन्।" },
+    { "en": "Companies must file annual returns with OCR every year, even with no business activity.", "ne": "कारोबार नभए पनि कम्पनीले हरेक वर्ष कार्यालयमा वार्षिक विवरण बुझाउनुपर्छ।" }
+  ]
+}

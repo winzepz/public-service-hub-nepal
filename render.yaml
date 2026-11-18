@@ -1,0 +1,33 @@
+# Render Blueprint — deploys as a free static site (no server, never sleeps).
+services:
+  - type: web
+    name: public-service-hub-nepal
+    runtime: static
+    buildCommand: npm ci && npm run validate && npm run build
+    staticPublishPath: ./out
+    pullRequestPreviewsEnabled: false
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
+      - key: NEXT_TELEMETRY_DISABLED
+        value: "1"
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - path: /*
+        name: X-Frame-Options
+        value: DENY
+      - path: /*
+        name: Permissions-Policy
+        value: camera=(), microphone=(), geolocation=()
+      - path: /_next/static/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+    routes:
+      - type: redirect
+        source: /
+        destination: /en/

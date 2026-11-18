@@ -1,0 +1,31 @@
+{
+  "name": "public-service-hub-nepal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open-source, bilingual (English / नेपाली) guide to Nepal government services: step-by-step procedures, document checklists, fees and verified official portal links.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve@14.2.4 out",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate-content.mjs",
+    "check-links": "node scripts/check-links.mjs"
+  },
+  "engines": {
+    "node": ">=18.18"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.169.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.11",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.1",
+    "@types/three": "0.169.0",
+    "typescript": "5.6.3"
+  }
+}

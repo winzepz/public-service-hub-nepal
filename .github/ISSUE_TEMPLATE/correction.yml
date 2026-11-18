@@ -1,0 +1,24 @@
+name: Correction to a guide
+description: A fee, document, office or step is wrong or out of date.
+labels: [content]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      placeholder: /en/services/passport-renewal/
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong, and what should it say?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: An official notice or .gov.np link, or when and where you did this yourself.
+    validations:
+      required: true

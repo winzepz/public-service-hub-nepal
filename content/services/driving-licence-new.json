@@ -1,0 +1,53 @@
+{
+  "slug": "driving-licence-new",
+  "category": "transport",
+  "icon": "licence",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "New driving licence (written test and trial)", "ne": "नयाँ सवारी चालक अनुमतिपत्र (लिखित र ट्रायल)" },
+  "summary": {
+    "en": "Apply online, pass the written test and the practical trial, then get your smart driving licence card.",
+    "ne": "अनलाइन आवेदन दिनुहोस्, लिखित परीक्षा र ट्रायल पास गर्नुहोस्, त्यसपछि स्मार्ट सवारी चालक अनुमतिपत्र लिनुहोस्।"
+  },
+  "authority": { "en": "Department of Transport Management and provincial Transport Management Offices", "ne": "यातायात व्यवस्था विभाग र प्रदेशका यातायात व्यवस्था कार्यालय" },
+  "keywords": ["driving license", "driving licence", "license", "licence", "lisens", "लाइसेन्स", "सवारी चालक अनुमतिपत्र", "trial", "trial card", "written exam", "bike license", "car license", "dotm", "applydl"],
+  "eligibility": [
+    { "en": "Motorcycle and scooter (categories A and K): 16 years or older.", "ne": "मोटरसाइकल र स्कुटर (वर्ग A र K): १६ वर्ष वा माथि।" },
+    { "en": "Car, jeep and van (category B): 18 years or older.", "ne": "कार, जिप र भ्यान (वर्ग B): १८ वर्ष वा माथि।" },
+    { "en": "Heavy vehicle categories have higher age limits and usually need an existing licence. Check DoTM for your category.", "ne": "भारी सवारीका वर्गमा उमेरको हद बढी हुन्छ र प्रायः पहिले नै अनुमतिपत्र चाहिन्छ। आफ्नो वर्गका लागि विभागमा जाँच गर्नुहोस्।" }
+  ],
+  "where": [
+    { "en": "Apply online at applydl.dotm.gov.np.", "ne": "applydl.dotm.gov.np मा अनलाइन आवेदन दिनुहोस्।" },
+    { "en": "Exams and biometrics at the Transport Management Office (licence office) you choose in your province.", "ne": "परीक्षा र बायोमेट्रिक आफ्नो प्रदेशमा छानेको यातायात व्यवस्था कार्यालय (अनुमतिपत्र कार्यालय) मा।" }
+  ],
+  "documents": [
+    { "en": "Printed online application with your appointment date", "ne": "भेटघाट मिति सहितको अनलाइन आवेदनको प्रिन्ट" },
+    { "en": "Original citizenship certificate and a photocopy", "ne": "नागरिकता प्रमाणपत्रको सक्कल र फोटोकपी" },
+    { "en": "National Identity Number (NIN), if you have one", "ne": "राष्ट्रिय परिचयपत्र नम्बर (NIN), भएमा" },
+    { "en": "Blood group report from a recognised lab or health post", "ne": "मान्यता प्राप्त प्रयोगशाला वा स्वास्थ्य संस्थाको रक्त समूह प्रतिवेदन" },
+    { "en": "Payment receipts for the exam and licence fees", "ne": "परीक्षा र अनुमतिपत्र शुल्क तिरेको रसिद" },
+    { "en": "Existing licence card, if you are adding a new category", "ne": "नयाँ वर्ग थप्दै हुनुहुन्छ भने भइरहेको अनुमतिपत्र कार्ड" }
+  ],
+  "steps": [
+    { "en": "Fill in the form at applydl.dotm.gov.np. Choose your vehicle category, licence office and exam date.", "ne": "applydl.dotm.gov.np मा फारम भर्नुहोस्। सवारीको वर्ग, अनुमतिपत्र कार्यालय र परीक्षा मिति छान्नुहोस्।" },
+    { "en": "On the date, go for document checks and biometrics (photo, fingerprints, signature). Some offices also do an eye check.", "ne": "तोकिएको मितिमा कागजात रुजु र बायोमेट्रिक (फोटो, औंठाछाप, हस्ताक्षर) का लागि जानुहोस्। केही कार्यालयमा आँखा जाँच पनि हुन्छ।" },
+    { "en": "Pass the written test on traffic rules, road signs and vehicle basics.", "ne": "ट्राफिक नियम, सडक चिन्ह र सवारी साधनसम्बन्धी आधारभूत लिखित परीक्षा पास गर्नुहोस्।" },
+    { "en": "Pass the practical trial on the test track on your trial date.", "ne": "ट्रायल मितिमा परीक्षण ट्र्याकमा ट्रायल पास गर्नुहोस्।" },
+    { "en": "Pay the licence fee. Track printing status online and collect your smart card.", "ne": "अनुमतिपत्र शुल्क तिर्नुहोस्। छपाइको अवस्था अनलाइन हेरी स्मार्ट कार्ड बुझ्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Licence, motorcycle or scooter (A, K)", "ne": "अनुमतिपत्र, मोटरसाइकल वा स्कुटर (A, K)" }, "amount": { "en": "Rs 3,000 in most provinces", "ne": "धेरैजसो प्रदेशमा रु. ३,०००" } },
+    { "label": { "en": "Licence, car, jeep or van (B)", "ne": "अनुमतिपत्र, कार, जिप वा भ्यान (B)" }, "amount": { "en": "Rs 4,000 (Rs 5,000 in Madhesh)", "ne": "रु. ४,००० (मधेशमा रु. ५,०००)" } },
+    { "label": { "en": "Application and exam fees", "ne": "आवेदन र परीक्षा शुल्क" }, "amount": { "en": "Set by each province", "ne": "प्रत्येक प्रदेशले तोके अनुसार" } }
+  ],
+  "time": {
+    "en": "Written test and trial happen on your booked dates. Smart cards are printed within a day at some offices and take a few weeks at others.",
+    "ne": "लिखित र ट्रायल बुक गरेको मितिमा हुन्छ। कतिपय कार्यालयमा स्मार्ट कार्ड एक दिनमै छापिन्छ, कतै केही हप्ता लाग्छ।"
+  },
+  "portals": ["dl-apply", "dotm"],
+  "tips": [
+    { "en": "Fees were revised recently and now differ by province. Check your provincial Transport Management Office notice.", "ne": "शुल्क हालै परिमार्जन भई प्रदेश अनुसार फरक छ। आफ्नो प्रदेशको यातायात व्यवस्था कार्यालयको सूचना हेर्नुहोस्।" },
+    { "en": "If you fail the trial, you can book another attempt. Practise the track layout (figure-eight, slope, parking) beforehand.", "ne": "ट्रायलमा असफल भए अर्को पटकका लागि बुक गर्न सकिन्छ। पहिले नै ट्र्याकको अभ्यास (आठ आकार, उकालो, पार्किङ) गर्नुहोस्।" },
+    { "en": "Rules about bringing your own vehicle and helmet differ between offices. Ask before your trial day.", "ne": "आफ्नै सवारी र हेलमेट लैजानुपर्ने नियम कार्यालय अनुसार फरक हुन्छ। ट्रायलअघि सोध्नुहोस्।" }
+  ]
+}

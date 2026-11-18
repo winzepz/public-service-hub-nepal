@@ -1,0 +1,52 @@
+{
+  "slug": "passport-renewal",
+  "category": "travel",
+  "icon": "passport",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Passport renewal", "ne": "राहदानी नवीकरण" },
+  "summary": {
+    "en": "Replace an expired, expiring or full passport with a new e-passport. The process is the same as a new passport, plus your old passport.",
+    "ne": "म्याद सकिएको, सकिन लागेको वा पाना भरिएको राहदानीको सट्टा नयाँ ई-राहदानी। प्रक्रिया नयाँ राहदानी जस्तै हो, साथमा पुरानो राहदानी चाहिन्छ।"
+  },
+  "authority": { "en": "Department of Passports, Ministry of Foreign Affairs", "ne": "राहदानी विभाग, परराष्ट्र मन्त्रालय" },
+  "keywords": ["passport renewal", "renew passport", "rahadani nawikaran", "राहदानी नवीकरण", "expired passport", "lost passport", "e-passport", "पासपोर्ट"],
+  "eligibility": [
+    { "en": "Holders of a Nepali machine-readable passport (MRP) or e-passport that has expired, will expire soon, or has no blank pages left.", "ne": "म्याद सकिएको, सकिन लागेको वा खाली पाना नभएको नेपाली मेसिन रिडेबल (MRP) वा ई-राहदानी भएका व्यक्ति।" },
+    { "en": "If your passport was lost or stolen, you also need a police report about the loss.", "ne": "राहदानी हराएको वा चोरी भएको भए हराएको सम्बन्धी प्रहरी प्रतिवेदन पनि चाहिन्छ।" }
+  ],
+  "where": [
+    { "en": "Regular service: your chosen District Administration Office or a Nepali mission abroad.", "ne": "साधारण सेवा: तपाईंले छानेको जिल्ला प्रशासन कार्यालय वा विदेशस्थित नेपाली नियोग।" },
+    { "en": "Fast-track service: Department of Passports, Tripureshwor, Kathmandu.", "ne": "द्रुत सेवा: राहदानी विभाग, त्रिपुरेश्वर, काठमाडौं।" }
+  ],
+  "documents": [
+    { "en": "Old passport (original) and a photocopy of its photo page", "ne": "पुरानो राहदानीको सक्कल र फोटो भएको पानाको फोटोकपी" },
+    { "en": "Printed online application form with appointment date", "ne": "भेटघाट मिति सहितको अनलाइन आवेदन फारमको प्रिन्ट" },
+    { "en": "Original citizenship certificate and a photocopy of both sides", "ne": "नागरिकता प्रमाणपत्रको सक्कल र दुवै पाटाको फोटोकपी" },
+    { "en": "National Identity Number (NIN) or national ID card", "ne": "राष्ट्रिय परिचयपत्र नम्बर (NIN) वा राष्ट्रिय परिचयपत्र" },
+    { "en": "Payment receipt or online payment confirmation", "ne": "शुल्क तिरेको रसिद वा अनलाइन भुक्तानीको प्रमाण" },
+    { "en": "If lost or stolen: police report of the loss (and any other documents the office asks for)", "ne": "हराएको वा चोरी भएमा: हराएको सम्बन्धी प्रहरी प्रतिवेदन (र कार्यालयले मागेका अन्य कागजात)" }
+  ],
+  "steps": [
+    { "en": "Fill in the online form at emrtds.nepalpassport.gov.np and select renewal. Enter your old passport number.", "ne": "emrtds.nepalpassport.gov.np मा अनलाइन फारम भरी नवीकरण छान्नुहोस्। पुरानो राहदानी नम्बर हाल्नुहोस्।" },
+    { "en": "Book an appointment at your preferred office and pay the fee.", "ne": "आफूलाई पायक पर्ने कार्यालयमा भेटघाट समय लिनुहोस् र शुल्क तिर्नुहोस्।" },
+    { "en": "Visit the office with your old passport and originals for verification and biometrics.", "ne": "पुरानो राहदानी र सक्कल कागजात लिएर रुजु र बायोमेट्रिकका लागि कार्यालय जानुहोस्।" },
+    { "en": "Your old passport is cancelled (usually by cutting the corner) and may be returned to you. Keep it if it has valid visas.", "ne": "पुरानो राहदानी रद्द गरिन्छ (प्रायः कुना काटेर) र फिर्ता पनि दिन सकिन्छ। मान्य भिसा भए त्यसलाई सुरक्षित राख्नुहोस्।" },
+    { "en": "Collect the new passport in person when the status shows ready.", "ne": "अवस्था तयार देखिएपछि आफैं गएर नयाँ राहदानी बुझ्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Regular, 34 pages", "ne": "साधारण, ३४ पृष्ठ" }, "amount": { "en": "Rs 5,000", "ne": "रु. ५,०००" } },
+    { "label": { "en": "Regular, 66 pages", "ne": "साधारण, ६६ पृष्ठ" }, "amount": { "en": "Rs 10,000", "ne": "रु. १०,०००" } },
+    { "label": { "en": "Fast track, 34 pages", "ne": "द्रुत सेवा, ३४ पृष्ठ" }, "amount": { "en": "Rs 12,000", "ne": "रु. १२,०००" } },
+    { "label": { "en": "Fast track, 66 pages", "ne": "द्रुत सेवा, ६६ पृष्ठ" }, "amount": { "en": "Rs 20,000", "ne": "रु. २०,०००" } }
+  ],
+  "time": {
+    "en": "Regular: about 2 to 4 weeks. Fast track: about 3 working days. Applications abroad take longer.",
+    "ne": "साधारण: करिब २ देखि ४ हप्ता। द्रुत सेवा: करिब ३ कार्यदिन। विदेशबाट आवेदन दिँदा बढी समय लाग्छ।"
+  },
+  "portals": ["dop-apply", "dop"],
+  "tips": [
+    { "en": "Renew at least 6 months before expiry. Many countries refuse entry or visas if your passport has less than 6 months left.", "ne": "म्याद सकिनुभन्दा कम्तीमा ६ महिना अगाडि नवीकरण गर्नुहोस्। धेरै देशले ६ महिनाभन्दा कम म्याद भएको राहदानीमा भिसा वा प्रवेश दिँदैनन्।" },
+    { "en": "If your details changed (for example after marriage), bring the supporting certificate so the new passport is correct.", "ne": "विवरण परिवर्तन भएको भए (जस्तै विवाहपछि), नयाँ राहदानी सही बनोस् भनेर प्रमाण कागजात लैजानुहोस्।" }
+  ]
+}

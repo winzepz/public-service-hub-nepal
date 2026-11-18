@@ -1,0 +1,254 @@
+[
+  {
+    "id": "nepal-gov",
+    "category": "general",
+    "url": "https://nepal.gov.np",
+    "name": { "en": "Nepal Government portal", "ne": "नेपाल सरकारको पोर्टल" },
+    "authority": { "en": "Government of Nepal", "ne": "नेपाल सरकार" },
+    "description": { "en": "Central gateway to ministries, departments and government notices.", "ne": "मन्त्रालय, विभाग र सरकारी सूचनाको केन्द्रीय पोर्टल।" }
+  },
+  {
+    "id": "nagarik",
+    "category": "general",
+    "url": "https://nagarikapp.gov.np",
+    "name": { "en": "Nagarik App", "ne": "नागरिक एप" },
+    "authority": { "en": "Office of the Prime Minister and Council of Ministers", "ne": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय" },
+    "description": { "en": "Official app that stores your citizenship, NID, PAN, licence and more in one place, with some online payments.", "ne": "नागरिकता, राष्ट्रिय परिचयपत्र, प्यान, लाइसेन्सलगायत विवरण एकै ठाउँमा राख्ने र केही भुक्तानी गर्न मिल्ने आधिकारिक एप।" }
+  },
+  {
+    "id": "hellosarkar",
+    "category": "general",
+    "url": "https://hellosarkar.gov.np",
+    "name": { "en": "Hello Sarkar (complaints)", "ne": "हेलो सरकार (गुनासो)" },
+    "authority": { "en": "Office of the Prime Minister and Council of Ministers", "ne": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय" },
+    "description": { "en": "Register a complaint about any government service. You can also call 1111.", "ne": "कुनै पनि सरकारी सेवाबारे गुनासो दर्ता गर्नुहोस्। ११११ मा फोन पनि गर्न सकिन्छ।" },
+    "note": { "en": "This site can be slow to load.", "ne": "यो साइट खुल्न ढिलो हुन सक्छ।" }
+  },
+  {
+    "id": "dop",
+    "category": "travel",
+    "url": "https://nepalpassport.gov.np",
+    "name": { "en": "Department of Passports", "ne": "राहदानी विभाग" },
+    "authority": { "en": "Ministry of Foreign Affairs", "ne": "परराष्ट्र मन्त्रालय" },
+    "description": { "en": "Fees, notices, FAQs and passport status.", "ne": "शुल्क, सूचना, बारम्बार सोधिने प्रश्न र राहदानीको अवस्था।" }
+  },
+  {
+    "id": "dop-apply",
+    "category": "travel",
+    "url": "https://emrtds.nepalpassport.gov.np",
+    "name": { "en": "e-Passport online application", "ne": "ई-राहदानी अनलाइन आवेदन" },
+    "authority": { "en": "Department of Passports", "ne": "राहदानी विभाग" },
+    "description": { "en": "Fill in the passport form and book an appointment.", "ne": "राहदानी फारम भर्ने र भेटघाट समय लिने।" },
+    "note": { "en": "Can be slow at busy times; try early morning.", "ne": "भीड हुँदा ढिलो हुन सक्छ; बिहान सबेरै प्रयास गर्नुहोस्।" }
+  },
+  {
+    "id": "consular",
+    "category": "travel",
+    "url": "https://nepalconsular.gov.np",
+    "name": { "en": "Department of Consular Services", "ne": "कन्सुलर सेवा विभाग" },
+    "authority": { "en": "Ministry of Foreign Affairs", "ne": "परराष्ट्र मन्त्रालय" },
+    "description": { "en": "Document attestation for use abroad, and help for Nepalis overseas.", "ne": "विदेशमा प्रयोग हुने कागजातको प्रमाणीकरण र विदेशमा रहेका नेपालीलाई सहयोग।" }
+  },
+  {
+    "id": "mofa",
+    "category": "travel",
+    "url": "https://mofa.gov.np",
+    "name": { "en": "Ministry of Foreign Affairs", "ne": "परराष्ट्र मन्त्रालय" },
+    "authority": { "en": "Government of Nepal", "ne": "नेपाल सरकार" },
+    "description": { "en": "Embassies, missions and foreign policy notices.", "ne": "दूतावास, नियोग र परराष्ट्र सम्बन्धी सूचना।" }
+  },
+  {
+    "id": "immigration",
+    "category": "travel",
+    "url": "https://immigration.gov.np",
+    "name": { "en": "Department of Immigration", "ne": "अध्यागमन विभाग" },
+    "authority": { "en": "Ministry of Home Affairs", "ne": "गृह मन्त्रालय" },
+    "description": { "en": "Visas for foreigners and departure rules for Nepali travellers.", "ne": "विदेशीका लागि भिसा र नेपाली यात्रुका लागि प्रस्थान नियम।" }
+  },
+  {
+    "id": "opcr",
+    "category": "travel",
+    "url": "https://opcr.nepalpolice.gov.np",
+    "name": { "en": "Online police clearance (police report)", "ne": "अनलाइन प्रहरी चारित्रिक प्रमाणपत्र" },
+    "authority": { "en": "Nepal Police", "ne": "नेपाल प्रहरी" },
+    "description": { "en": "Apply for and download your police clearance certificate.", "ne": "प्रहरी चारित्रिक प्रमाणपत्रका लागि आवेदन र डाउनलोड।" }
+  },
+  {
+    "id": "nepal-police",
+    "category": "travel",
+    "url": "https://nepalpolice.gov.np",
+    "name": { "en": "Nepal Police", "ne": "नेपाल प्रहरी" },
+    "authority": { "en": "Ministry of Home Affairs", "ne": "गृह मन्त्रालय" },
+    "description": { "en": "Police notices, contacts and services.", "ne": "प्रहरीका सूचना, सम्पर्क र सेवाहरू।" }
+  },
+  {
+    "id": "dofe",
+    "category": "travel",
+    "url": "https://dofe.gov.np",
+    "name": { "en": "Department of Foreign Employment", "ne": "वैदेशिक रोजगार विभाग" },
+    "authority": { "en": "Ministry of Labour, Employment and Social Security", "ne": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालय" },
+    "description": { "en": "Licensed agency list, notices and complaints for foreign employment.", "ne": "इजाजतप्राप्त म्यानपावर कम्पनीको सूची, सूचना र वैदेशिक रोजगारसम्बन्धी उजुरी।" }
+  },
+  {
+    "id": "feims",
+    "category": "travel",
+    "url": "https://feims.dofe.gov.np",
+    "name": { "en": "FEIMS (labour permit system)", "ne": "FEIMS (श्रम स्वीकृति प्रणाली)" },
+    "authority": { "en": "Department of Foreign Employment", "ne": "वैदेशिक रोजगार विभाग" },
+    "description": { "en": "Labour permits, re-entry permits and permit status.", "ne": "श्रम स्वीकृति, पुनः श्रम स्वीकृति र स्वीकृतिको अवस्था।" }
+  },
+  {
+    "id": "noc",
+    "category": "travel",
+    "url": "https://noc.moest.gov.np",
+    "name": { "en": "Study abroad NOC", "ne": "विदेश अध्ययन अनुमति पत्र (NOC)" },
+    "authority": { "en": "Ministry of Education, Science and Technology", "ne": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय" },
+    "description": { "en": "Apply online for the no objection letter needed to send fees abroad.", "ne": "विदेशमा शुल्क पठाउन चाहिने अनुमति पत्रका लागि अनलाइन आवेदन।" }
+  },
+  {
+    "id": "moest",
+    "category": "travel",
+    "url": "https://moest.gov.np",
+    "name": { "en": "Ministry of Education, Science and Technology", "ne": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय" },
+    "authority": { "en": "Government of Nepal", "ne": "नेपाल सरकार" },
+    "description": { "en": "Education policy, scholarships and notices.", "ne": "शिक्षा नीति, छात्रवृत्ति र सूचना।" }
+  },
+  {
+    "id": "donidcr",
+    "category": "identity",
+    "url": "https://donidcr.gov.np",
+    "name": { "en": "Department of National ID and Civil Registration", "ne": "राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभाग" },
+    "authority": { "en": "Ministry of Home Affairs", "ne": "गृह मन्त्रालय" },
+    "description": { "en": "National ID notices and vital registration (birth, marriage, death, migration).", "ne": "राष्ट्रिय परिचयपत्रका सूचना र व्यक्तिगत घटना दर्ता (जन्म, विवाह, मृत्यु, बसाइँसराइ)।" }
+  },
+  {
+    "id": "nid-enroll",
+    "category": "identity",
+    "url": "https://enrollment.donidcr.gov.np",
+    "name": { "en": "NID pre-enrollment", "ne": "राष्ट्रिय परिचयपत्र पूर्वदर्ता" },
+    "authority": { "en": "Department of National ID and Civil Registration", "ne": "राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभाग" },
+    "description": { "en": "Fill in the national ID pre-enrollment form and choose an office.", "ne": "राष्ट्रिय परिचयपत्र पूर्वदर्ता फारम भरी कार्यालय छान्ने।" }
+  },
+  {
+    "id": "moha",
+    "category": "identity",
+    "url": "https://moha.gov.np",
+    "name": { "en": "Ministry of Home Affairs", "ne": "गृह मन्त्रालय" },
+    "authority": { "en": "Government of Nepal", "ne": "नेपाल सरकार" },
+    "description": { "en": "Links to every District Administration Office and citizenship rules.", "ne": "सबै जिल्ला प्रशासन कार्यालयका लिङ्क र नागरिकतासम्बन्धी नियम।" }
+  },
+  {
+    "id": "election",
+    "category": "identity",
+    "url": "https://election.gov.np",
+    "name": { "en": "Election Commission Nepal", "ne": "निर्वाचन आयोग" },
+    "authority": { "en": "Constitutional body", "ne": "संवैधानिक निकाय" },
+    "description": { "en": "Voter registration notices and voter list search.", "ne": "मतदाता दर्ताका सूचना र मतदाता नामावली खोज।" }
+  },
+  {
+    "id": "mofaga",
+    "category": "civil",
+    "url": "https://mofaga.gov.np",
+    "name": { "en": "Ministry of Federal Affairs and General Administration", "ne": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालय" },
+    "authority": { "en": "Government of Nepal", "ne": "नेपाल सरकार" },
+    "description": { "en": "Directory of local levels (municipalities and rural municipalities).", "ne": "स्थानीय तह (नगरपालिका र गाउँपालिका) को विवरण।" },
+    "note": { "en": "This site can be slow to load.", "ne": "यो साइट खुल्न ढिलो हुन सक्छ।" }
+  },
+  {
+    "id": "dotm",
+    "category": "transport",
+    "url": "https://dotm.gov.np",
+    "name": { "en": "Department of Transport Management", "ne": "यातायात व्यवस्था विभाग" },
+    "authority": { "en": "Ministry of Physical Infrastructure and Transport", "ne": "भौतिक पूर्वाधार तथा यातायात मन्त्रालय" },
+    "description": { "en": "Licence and vehicle notices, licence status and transport office list.", "ne": "लाइसेन्स र सवारीसम्बन्धी सूचना, लाइसेन्सको अवस्था र यातायात कार्यालयको सूची।" }
+  },
+  {
+    "id": "dl-apply",
+    "category": "transport",
+    "url": "https://applydl.dotm.gov.np",
+    "name": { "en": "Online driving licence application", "ne": "अनलाइन सवारी चालक अनुमतिपत्र आवेदन" },
+    "authority": { "en": "Department of Transport Management", "ne": "यातायात व्यवस्था विभाग" },
+    "description": { "en": "New licence, added category and renewal forms.", "ne": "नयाँ लाइसेन्स, वर्ग थप र नवीकरणको फारम।" },
+    "note": { "en": "Opens only at set times during busy periods.", "ne": "भीडको समयमा तोकिएको समयमा मात्र खुल्छ।" }
+  },
+  {
+    "id": "ird",
+    "category": "tax-business",
+    "url": "https://ird.gov.np",
+    "name": { "en": "Inland Revenue Department", "ne": "आन्तरिक राजस्व विभाग" },
+    "authority": { "en": "Ministry of Finance", "ne": "अर्थ मन्त्रालय" },
+    "description": { "en": "Tax rules, deadlines and office locations.", "ne": "कर नियम, समयसीमा र कार्यालयको ठेगाना।" }
+  },
+  {
+    "id": "taxpayer",
+    "category": "tax-business",
+    "url": "https://taxpayerportal.ird.gov.np",
+    "name": { "en": "IRD taxpayer portal", "ne": "करदाता पोर्टल" },
+    "authority": { "en": "Inland Revenue Department", "ne": "आन्तरिक राजस्व विभाग" },
+    "description": { "en": "PAN and VAT registration, tax returns and payments.", "ne": "प्यान र भ्याट दर्ता, कर विवरण र भुक्तानी।" }
+  },
+  {
+    "id": "ocr",
+    "category": "tax-business",
+    "url": "https://ocr.gov.np",
+    "name": { "en": "Office of the Company Registrar", "ne": "कम्पनी रजिस्ट्रारको कार्यालय" },
+    "authority": { "en": "Ministry of Industry, Commerce and Supplies", "ne": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय" },
+    "description": { "en": "Company rules, fees, templates and notices.", "ne": "कम्पनी सम्बन्धी नियम, शुल्क, नमुना र सूचना।" }
+  },
+  {
+    "id": "ocr-apply",
+    "category": "tax-business",
+    "url": "https://application.ocr.gov.np",
+    "name": { "en": "OCR online registration", "ne": "कम्पनी अनलाइन दर्ता" },
+    "authority": { "en": "Office of the Company Registrar", "ne": "कम्पनी रजिस्ट्रारको कार्यालय" },
+    "description": { "en": "Name reservation, company registration and annual returns.", "ne": "नाम आरक्षण, कम्पनी दर्ता र वार्षिक विवरण।" }
+  },
+  {
+    "id": "doind",
+    "category": "tax-business",
+    "url": "https://doind.gov.np",
+    "name": { "en": "Department of Industry", "ne": "उद्योग विभाग" },
+    "authority": { "en": "Ministry of Industry, Commerce and Supplies", "ne": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय" },
+    "description": { "en": "Industry registration and foreign investment approval.", "ne": "उद्योग दर्ता र विदेशी लगानी स्वीकृति।" }
+  },
+  {
+    "id": "ssf",
+    "category": "tax-business",
+    "url": "https://ssf.gov.np",
+    "name": { "en": "Social Security Fund", "ne": "सामाजिक सुरक्षा कोष" },
+    "authority": { "en": "Ministry of Labour, Employment and Social Security", "ne": "श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालय" },
+    "description": { "en": "Contributor registration, including for workers abroad.", "ne": "योगदानकर्ता दर्ता, विदेशमा रहेका कामदारसमेत।" }
+  },
+  {
+    "id": "customs",
+    "category": "tax-business",
+    "url": "https://customs.gov.np",
+    "name": { "en": "Department of Customs", "ne": "भन्सार विभाग" },
+    "authority": { "en": "Ministry of Finance", "ne": "अर्थ मन्त्रालय" },
+    "description": { "en": "Customs rules, duty rates and baggage allowances.", "ne": "भन्सार नियम, महसुल दर र यात्रु सामानको सीमा।" }
+  },
+  {
+    "id": "dolma",
+    "category": "land-property",
+    "url": "https://dolma.gov.np",
+    "name": { "en": "Department of Land Management and Archive", "ne": "भूमि व्यवस्थापन तथा अभिलेख विभाग" },
+    "authority": { "en": "Ministry of Land Management, Cooperatives and Poverty Alleviation", "ne": "भूमि व्यवस्था, सहकारी तथा गरिबी निवारण मन्त्रालय" },
+    "description": { "en": "Land Revenue (Malpot) office list, land rules and notices.", "ne": "मालपोत कार्यालयको सूची, जग्गा सम्बन्धी नियम र सूचना।" }
+  },
+  {
+    "id": "psc",
+    "category": "general",
+    "url": "https://psc.gov.np",
+    "name": { "en": "Public Service Commission (Lok Sewa)", "ne": "लोक सेवा आयोग" },
+    "authority": { "en": "Constitutional body", "ne": "संवैधानिक निकाय" },
+    "description": { "en": "Government job vacancies, exams and results.", "ne": "सरकारी जागिरको विज्ञापन, परीक्षा र नतिजा।" }
+  },
+  {
+    "id": "lawcommission",
+    "category": "general",
+    "url": "https://lawcommission.gov.np",
+    "name": { "en": "Nepal Law Commission", "ne": "नेपाल कानून आयोग" },
+    "authority": { "en": "Government of Nepal", "ne": "नेपाल सरकार" },
+    "description": { "en": "Official text of acts, regulations and the constitution.", "ne": "ऐन, नियमावली र संविधानको आधिकारिक पाठ।" }
+  }
+]

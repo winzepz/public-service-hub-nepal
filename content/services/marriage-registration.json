@@ -1,0 +1,44 @@
+{
+  "slug": "marriage-registration",
+  "category": "civil",
+  "icon": "marriage",
+  "lastReviewed": "2026-11",
+  "title": { "en": "Marriage registration", "ne": "विवाह दर्ता" },
+  "summary": {
+    "en": "Register a marriage at the ward office. You will need the certificate for a spouse's citizenship, name changes, passports and family visas.",
+    "ne": "वडा कार्यालयमा विवाह दर्ता गर्नुहोस्। पति/पत्नीको नागरिकता, नाम परिवर्तन, राहदानी र पारिवारिक भिसाका लागि यो प्रमाणपत्र चाहिन्छ।"
+  },
+  "authority": { "en": "Ward office of your municipality or rural municipality (vital registration)", "ne": "नगरपालिका वा गाउँपालिकाको वडा कार्यालय (व्यक्तिगत घटना दर्ता)" },
+  "keywords": ["marriage registration", "marriage certificate", "bibaha darta", "विवाह दर्ता", "wedding", "spouse", "dependent visa", "husband", "wife"],
+  "eligibility": [
+    { "en": "Couples who are both at least 20 years old (the legal age of marriage in Nepal). Register within 35 days to avoid a late fee.", "ne": "दुवै जना कम्तीमा २० वर्ष पूरा भएका दम्पती (नेपालमा विवाहको कानुनी उमेर)। ढिलो शुल्कबाट बच्न ३५ दिनभित्र दर्ता गर्नुहोस्।" }
+  ],
+  "where": [
+    { "en": "The ward office of the permanent address where the couple lives, usually the husband's.", "ne": "दम्पती बसोबास गर्ने स्थायी ठेगानाको वडा कार्यालय, प्रायः पतिको।" },
+    { "en": "Court marriage (without a ceremony) is done separately at the District Court.", "ne": "अदालती विवाह (विधिबिना) छुट्टै जिल्ला अदालतमा हुन्छ।" }
+  ],
+  "documents": [
+    { "en": "Bride's citizenship certificate (original and photocopy)", "ne": "दुलहीको नागरिकता प्रमाणपत्र (सक्कल र फोटोकपी)" },
+    { "en": "Groom's citizenship certificate (original and photocopy)", "ne": "दुलहाको नागरिकता प्रमाणपत्र (सक्कल र फोटोकपी)" },
+    { "en": "Passport-size photos of both (ask the ward for the number)", "ne": "दुवैको पासपोर्ट साइज फोटो (संख्या वडामा सोध्नुहोस्)" },
+    { "en": "Both spouses present in person to sign", "ne": "हस्ताक्षरका लागि पति र पत्नी दुवै उपस्थित" },
+    { "en": "For marriages abroad: the foreign marriage certificate", "ne": "विदेशमा भएको विवाहका लागि: विदेशी निकायको विवाह प्रमाणपत्र" }
+  ],
+  "steps": [
+    { "en": "Both spouses go to the ward office with their citizenship certificates.", "ne": "पति र पत्नी दुवै नागरिकता लिएर वडा कार्यालय जानुहोस्।" },
+    { "en": "Fill in the marriage registration form and sign or give thumbprints.", "ne": "विवाह दर्ता फारम भरी हस्ताक्षर वा औंठाछाप दिनुहोस्।" },
+    { "en": "Receive the certificate. Ask for an English version for use abroad.", "ne": "प्रमाणपत्र लिनुहोस्। विदेशमा प्रयोगका लागि अंग्रेजी संस्करण माग्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Within 35 days of marriage", "ne": "विवाह भएको ३५ दिनभित्र" }, "amount": { "en": "Free", "ne": "निःशुल्क" } },
+    { "label": { "en": "After 35 days", "ne": "३५ दिनपछि" }, "amount": { "en": "Small late fee set by the local level", "ne": "स्थानीय तहले तोकेको सानो ढिलो शुल्क" } }
+  ],
+  "time": {
+    "en": "Same day.",
+    "ne": "सोही दिन।"
+  },
+  "portals": ["donidcr", "mofaga"],
+  "tips": [
+    { "en": "For use abroad, have the English certificate attested by the Department of Consular Services.", "ne": "विदेशमा प्रयोग गर्न अंग्रेजी प्रमाणपत्र कन्सुलर सेवा विभागबाट प्रमाणित गराउनुहोस्।" }
+  ]
+}

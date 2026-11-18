@@ -1,0 +1,52 @@
+{
+  "slug": "vehicle-ownership-transfer",
+  "category": "transport",
+  "icon": "car",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Vehicle ownership transfer (namsari)", "ne": "सवारी साधन नामसारी" },
+  "summary": {
+    "en": "Move a vehicle's registration into the buyer's name after a sale. Both buyer and seller are involved.",
+    "ne": "बिक्रीपछि सवारी साधनको दर्ता खरिदकर्ताको नाममा सार्ने प्रक्रिया। क्रेता र बिक्रेता दुवै सहभागी हुनुपर्छ।"
+  },
+  "authority": { "en": "Transport Management Office of the province where the vehicle is registered", "ne": "सवारी दर्ता भएको प्रदेशको यातायात व्यवस्था कार्यालय" },
+  "keywords": ["ownership transfer", "namsari", "नामसारी", "vehicle transfer", "bike transfer", "car transfer", "sell bike", "buy second hand", "bluebook transfer", "सवारी"],
+  "eligibility": [
+    { "en": "The registered owner (seller) and the buyer of a registered vehicle whose tax and renewal are up to date.", "ne": "कर र नवीकरण अद्यावधिक भएको दर्ता भएको सवारी साधनको धनी (बिक्रेता) र खरिदकर्ता।" }
+  ],
+  "where": [
+    { "en": "The Transport Management Office that holds the vehicle's registration record.", "ne": "सवारी साधनको दर्ता अभिलेख रहेको यातायात व्यवस्था कार्यालय।" }
+  ],
+  "documents": [
+    { "en": "Original bluebook (vehicle registration certificate)", "ne": "सक्कल ब्लुबुक (सवारी दर्ता प्रमाणपत्र)" },
+    { "en": "Seller's citizenship certificate (original and photocopy)", "ne": "बिक्रेताको नागरिकता (सक्कल र फोटोकपी)" },
+    { "en": "Buyer's citizenship certificate (original and photocopy)", "ne": "खरिदकर्ताको नागरिकता (सक्कल र फोटोकपी)" },
+    { "en": "Proof that vehicle tax and renewal are paid up to date", "ne": "सवारी कर र नवीकरण अद्यावधिक तिरेको प्रमाण" },
+    { "en": "Valid third-party insurance", "ne": "मान्य तेस्रो पक्ष बीमा" },
+    { "en": "Ownership transfer application form signed by both parties", "ne": "दुवै पक्षको हस्ताक्षर भएको नामसारी निवेदन फारम" },
+    { "en": "Passport-size photos of the buyer (usually 1 to 2)", "ne": "खरिदकर्ताको पासपोर्ट साइज फोटो (प्रायः १ देखि २ प्रति)" },
+    { "en": "Embossed number plate fitted on the vehicle", "ne": "सवारी साधनमा जडान गरिएको इम्बोस्ड नम्बर प्लेट" },
+    { "en": "If the vehicle was bought on a loan: release letter or consent letter from the bank", "ne": "कर्जामा किनेको भए: बैंकको फुकुवा पत्र वा सहमति पत्र" },
+    { "en": "If someone attends on behalf of an owner: notarised power of attorney (mukhtiyarnama)", "ne": "धनीको सट्टा अरू उपस्थित भए: प्रमाणित मुख्तियारनामा" }
+  ],
+  "steps": [
+    { "en": "Clear all pending vehicle tax, renewal charges and traffic fines.", "ne": "बाँकी सवारी कर, नवीकरण शुल्क र ट्राफिक जरिवाना सबै चुक्ता गर्नुहोस्।" },
+    { "en": "Fit an embossed number plate if the vehicle does not have one. Transfers are refused without it.", "ne": "इम्बोस्ड नम्बर प्लेट छैन भने जडान गर्नुहोस्। यसबिना नामसारी गरिँदैन।" },
+    { "en": "Buyer and seller go to the Transport Management Office together and submit the signed form with documents.", "ne": "क्रेता र बिक्रेता सँगै यातायात व्यवस्था कार्यालय गई हस्ताक्षर गरिएको फारम र कागजात बुझाउनुहोस्।" },
+    { "en": "Pay the transfer fee at the counter.", "ne": "काउन्टरमा नामसारी शुल्क तिर्नुहोस्।" },
+    { "en": "After verification, the new owner's details are entered and the bluebook is returned to the buyer.", "ne": "रुजुपछि नयाँ धनीको विवरण चढाई ब्लुबुक खरिदकर्तालाई फिर्ता गरिन्छ।" }
+  ],
+  "fees": [
+    { "label": { "en": "Ownership transfer fee", "ne": "नामसारी शुल्क" }, "amount": { "en": "Depends on vehicle type and province", "ne": "सवारीको प्रकार र प्रदेश अनुसार" } },
+    { "label": { "en": "Pending tax, renewal and fines", "ne": "बाँकी कर, नवीकरण र जरिवाना" }, "amount": { "en": "Must be cleared first", "ne": "पहिले नै चुक्ता गर्नुपर्छ" } }
+  ],
+  "time": {
+    "en": "Usually the same day to a few days.",
+    "ne": "प्रायः सोही दिनदेखि केही दिनसम्म।"
+  },
+  "portals": ["dotm"],
+  "tips": [
+    { "en": "Sellers: do not hand over the vehicle until the transfer is complete. Until then, accidents and fines are legally linked to you.", "ne": "बिक्रेता: नामसारी पूरा नभएसम्म सवारी नसुम्पनुहोस्। त्यसअघि दुर्घटना र जरिवाना कानुनी रूपमा तपाईंसँग जोडिन्छन्।" },
+    { "en": "Embossed number plates are required for registration, transfer and renewal at provincial Transport Management Offices.", "ne": "प्रदेशका यातायात व्यवस्था कार्यालयमा दर्ता, नामसारी र नवीकरणका लागि इम्बोस्ड नम्बर प्लेट अनिवार्य छ।" }
+  ]
+}

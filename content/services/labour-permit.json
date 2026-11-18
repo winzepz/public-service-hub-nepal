@@ -1,0 +1,54 @@
+{
+  "slug": "labour-permit",
+  "category": "travel",
+  "icon": "work-abroad",
+  "lastReviewed": "2026-11",
+  "title": { "en": "Labour permit for foreign employment (Shram Swikriti)", "ne": "वैदेशिक रोजगारीका लागि श्रम स्वीकृति" },
+  "summary": {
+    "en": "The permit every Nepali worker needs before leaving for a job abroad. It is processed online through FEIMS.",
+    "ne": "विदेशमा रोजगारीका लागि जानुअघि हरेक नेपाली कामदारलाई चाहिने स्वीकृति। FEIMS मार्फत अनलाइन प्रक्रिया हुन्छ।"
+  },
+  "authority": { "en": "Department of Foreign Employment (DoFE)", "ne": "वैदेशिक रोजगार विभाग" },
+  "keywords": ["labour permit", "labor permit", "shram swikriti", "श्रम स्वीकृति", "work permit", "foreign employment", "वैदेशिक रोजगार", "feims", "dofe", "re-entry", "re permit", "manpower", "gulf", "malaysia"],
+  "eligibility": [
+    { "en": "Nepali citizens aged 18 or older with a valid passport and a verified job offer abroad.", "ne": "मान्य राहदानी र प्रमाणित वैदेशिक रोजगारीको प्रस्ताव भएका १८ वर्ष वा माथिका नेपाली नागरिक।" },
+    { "en": "Workers can go through a licensed recruitment agency or the individual route. Returning workers on leave apply for a re-entry permit.", "ne": "इजाजतप्राप्त म्यानपावर कम्पनी वा व्यक्तिगत रूपमा जान सकिन्छ। बिदामा फर्केका कामदारले पुनः श्रम स्वीकृति लिन्छन्।" }
+  ],
+  "where": [
+    { "en": "Online at feims.dofe.gov.np, directly or through your licensed recruitment agency.", "ne": "feims.dofe.gov.np मा अनलाइन, आफैं वा इजाजतप्राप्त म्यानपावर कम्पनीमार्फत।" },
+    { "en": "Department of Foreign Employment or provincial Foreign Employment Offices for in-person verification when needed.", "ne": "आवश्यक परे प्रत्यक्ष रुजुका लागि वैदेशिक रोजगार विभाग वा प्रदेशस्थित वैदेशिक रोजगार कार्यालय।" }
+  ],
+  "documents": [
+    { "en": "Passport valid for at least 6 months", "ne": "कम्तीमा ६ महिना म्याद भएको राहदानी" },
+    { "en": "Visa or work permit issued by the destination country", "ne": "गन्तव्य देशले जारी गरेको भिसा वा वर्क परमिट" },
+    { "en": "Employment contract and demand letter verified through FEIMS", "ne": "FEIMS मार्फत प्रमाणित रोजगार सम्झौता र माग पत्र" },
+    { "en": "Medical certificate from a DoFE-approved medical centre", "ne": "विभागबाट स्वीकृत स्वास्थ्य संस्थाको स्वास्थ्य परीक्षण प्रमाणपत्र" },
+    { "en": "Pre-departure orientation training certificate", "ne": "अभिमुखीकरण तालिम प्रमाणपत्र" },
+    { "en": "Life insurance policy for the contract period", "ne": "सम्झौता अवधिभरको जीवन बीमा" },
+    { "en": "Foreign Employment Welfare Fund payment receipt", "ne": "वैदेशिक रोजगार कल्याणकारी कोषमा रकम जम्मा गरेको रसिद" },
+    { "en": "Citizenship certificate and National Identity Number", "ne": "नागरिकता प्रमाणपत्र र राष्ट्रिय परिचयपत्र नम्बर" }
+  ],
+  "steps": [
+    { "en": "Create your individual profile on FEIMS (or let your licensed agency create it).", "ne": "FEIMS मा व्यक्तिगत प्रोफाइल बनाउनुहोस् (वा इजाजतप्राप्त कम्पनीलाई बनाउन दिनुहोस्)।" },
+    { "en": "Complete the medical exam at an approved centre and the orientation training.", "ne": "स्वीकृत स्वास्थ्य संस्थामा स्वास्थ्य परीक्षण र अभिमुखीकरण तालिम पूरा गर्नुहोस्।" },
+    { "en": "Buy the insurance policy and pay the Welfare Fund and any other required contributions.", "ne": "बीमा गर्नुहोस् र कल्याणकारी कोष तथा अन्य आवश्यक योगदान तिर्नुहोस्।" },
+    { "en": "Submit the labour permit application on FEIMS with all documents.", "ne": "सबै कागजातसहित FEIMS मा श्रम स्वीकृतिको आवेदन पेस गर्नुहोस्।" },
+    { "en": "Once approved, keep the labour permit sticker or e-permit with your passport. Immigration checks it at the airport.", "ne": "स्वीकृत भएपछि श्रम स्वीकृति स्टिकर वा ई-स्वीकृति राहदानीसँगै राख्नुहोस्। विमानस्थलमा अध्यागमनले जाँच गर्छ।" }
+  ],
+  "fees": [
+    { "label": { "en": "Foreign Employment Welfare Fund", "ne": "वैदेशिक रोजगार कल्याणकारी कोष" }, "amount": { "en": "Rs 1,500", "ne": "रु. १,५००" } },
+    { "label": { "en": "Social Security Fund contribution", "ne": "सामाजिक सुरक्षा कोष योगदान" }, "amount": { "en": "As notified by DoFE (reported as Rs 2,595 from 2026)", "ne": "विभागको सूचना अनुसार (२०२६ देखि रु. २,५९५ भनिएको)" } },
+    { "label": { "en": "Orientation training", "ne": "अभिमुखीकरण तालिम" }, "amount": { "en": "About Rs 500 to 1,000", "ne": "करिब रु. ५०० देखि १,०००" } },
+    { "label": { "en": "Insurance premium", "ne": "बीमा प्रिमियम" }, "amount": { "en": "Depends on contract length", "ne": "सम्झौताको अवधि अनुसार" } }
+  ],
+  "time": {
+    "en": "A few working days once all documents are complete.",
+    "ne": "सबै कागजात पूरा भएपछि केही कार्यदिन।"
+  },
+  "portals": ["feims", "dofe", "ssf"],
+  "tips": [
+    { "en": "Check that your recruitment agency is licensed on the DoFE website before paying anything.", "ne": "कुनै पैसा तिर्नुअघि म्यानपावर कम्पनी इजाजतप्राप्त हो कि होइन विभागको वेबसाइटमा जाँच गर्नुहोस्।" },
+    { "en": "Never travel for work on a visit visa. You lose legal protection and insurance.", "ne": "भिजिट भिसामा कामका लागि नजानुहोस्। कानुनी संरक्षण र बीमा गुम्छ।" },
+    { "en": "Keep copies of your contract, receipts and permit with your family in Nepal.", "ne": "सम्झौता, रसिद र स्वीकृतिको प्रतिलिपि नेपालमा परिवारसँग राख्नुहोस्।" }
+  ]
+}

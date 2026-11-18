@@ -1,0 +1,53 @@
+{
+  "slug": "citizenship-by-descent",
+  "category": "identity",
+  "icon": "citizenship",
+  "popular": true,
+  "lastReviewed": "2026-11",
+  "title": { "en": "Citizenship certificate (by descent)", "ne": "वंशजको आधारमा नागरिकता प्रमाणपत्र" },
+  "summary": {
+    "en": "Your first Nepali citizenship certificate, issued by the District Administration Office from age 16. Almost every other service depends on it.",
+    "ne": "१६ वर्ष पुगेपछि जिल्ला प्रशासन कार्यालयले दिने पहिलो नेपाली नागरिकता प्रमाणपत्र। अन्य लगभग सबै सेवा यसैमा निर्भर हुन्छन्।"
+  },
+  "authority": { "en": "District Administration Office, Ministry of Home Affairs", "ne": "जिल्ला प्रशासन कार्यालय, गृह मन्त्रालय" },
+  "keywords": ["citizenship", "nagarikta", "नागरिकता", "citizen certificate", "ctzn", "dao", "jilla prashasan", "जिल्ला प्रशासन", "sanakhat", "sifaris", "वंशज"],
+  "eligibility": [
+    { "en": "Nepali citizens by descent aged 16 or above whose father or mother is a Nepali citizen.", "ne": "बाबु वा आमा नेपाली नागरिक भएका १६ वर्ष वा माथिका वंशजका नेपाली नागरिक।" },
+    { "en": "Apply in the district of your permanent address (usually the parent's district on record).", "ne": "आफ्नो स्थायी ठेगानाको जिल्लामा आवेदन दिनुहोस् (प्रायः अभिलेखमा रहेको बाबु वा आमाको जिल्ला)।" }
+  ],
+  "where": [
+    { "en": "First your ward office, for the recommendation letter (sifaris).", "ne": "पहिले सिफारिसका लागि आफ्नो वडा कार्यालय।" },
+    { "en": "Then the citizenship section of the District Administration Office (DAO).", "ne": "त्यसपछि जिल्ला प्रशासन कार्यालयको नागरिकता शाखा।" }
+  ],
+  "documents": [
+    { "en": "Recommendation letter (sifaris) from your ward office", "ne": "वडा कार्यालयको सिफारिस पत्र" },
+    { "en": "Father's or mother's citizenship certificate (original and photocopy)", "ne": "बाबु वा आमाको नागरिकता प्रमाणपत्र (सक्कल र फोटोकपी)" },
+    { "en": "Your birth registration certificate (original and photocopy)", "ne": "आफ्नो जन्म दर्ता प्रमाणपत्र (सक्कल र फोटोकपी)" },
+    { "en": "Academic certificate showing your date of birth (for example SEE), if you have one", "ne": "जन्ममिति खुलेको शैक्षिक प्रमाणपत्र (जस्तै SEE), भएमा" },
+    { "en": "Recent passport-size photos (usually 2 to 3; ask your DAO for the exact number)", "ne": "हालै खिचिएको पासपोर्ट साइजको फोटो (प्रायः २ देखि ३ प्रति; ठ्याक्कै संख्या जिल्ला प्रशासनमा सोध्नुहोस्)" },
+    { "en": "Application form (available at the DAO)", "ne": "निवेदन फारम (जिल्ला प्रशासन कार्यालयमा पाइन्छ)" },
+    { "en": "A parent or close relative, with their citizenship, to identify you in person (sanakhat)", "ne": "सनाखतका लागि आफ्नो नागरिकता लिएर बाबु, आमा वा नजिकको नातेदार उपस्थित" },
+    { "en": "Migration certificate if your family moved from another district", "ne": "परिवार अर्को जिल्लाबाट बसाइँ सरेको भए बसाइँसराइ प्रमाणपत्र" },
+    { "en": "For married applicants applying through a spouse: marriage registration certificate and spouse's citizenship", "ne": "पति/पत्नीको आधारमा आवेदन दिने विवाहितका लागि: विवाह दर्ता प्रमाणपत्र र पति/पत्नीको नागरिकता" }
+  ],
+  "steps": [
+    { "en": "Go to your ward office with a parent and their citizenship to get the recommendation letter.", "ne": "बाबु वा आमा र उहाँको नागरिकता लिएर सिफारिस पत्रका लागि वडा कार्यालय जानुहोस्।" },
+    { "en": "At the DAO, collect and fill in the application form, and attach the photocopies.", "ne": "जिल्ला प्रशासन कार्यालयमा निवेदन फारम लिई भर्नुहोस् र फोटोकपीहरू संलग्न गर्नुहोस्।" },
+    { "en": "Your parent or relative identifies you before the officer (sanakhat). Documents are checked.", "ne": "बाबु, आमा वा नातेदारले अधिकारीसामु तपाईंलाई सनाखत गर्नुहुन्छ। कागजात रुजु गरिन्छ।" },
+    { "en": "Give fingerprints. The certificate is prepared, signed and issued, often on the same day.", "ne": "औंठाछाप दिनुहोस्। प्रमाणपत्र तयार भई हस्ताक्षरसहित जारी हुन्छ, प्रायः सोही दिन।" },
+    { "en": "Check every detail (name spelling, date of birth, parents' names) before leaving the counter.", "ne": "काउन्टर छोड्नुअघि सबै विवरण (नामको हिज्जे, जन्ममिति, बाबुआमाको नाम) जाँच गर्नुहोस्।" }
+  ],
+  "fees": [
+    { "label": { "en": "Citizenship certificate", "ne": "नागरिकता प्रमाणपत्र" }, "amount": { "en": "Free", "ne": "निःशुल्क" } },
+    { "label": { "en": "Ward recommendation letter", "ne": "वडा सिफारिस पत्र" }, "amount": { "en": "As set by your local level", "ne": "स्थानीय तहले तोके अनुसार" } }
+  ],
+  "time": {
+    "en": "Usually the same day at the DAO if all documents are complete.",
+    "ne": "सबै कागजात पूरा भए जिल्ला प्रशासन कार्यालयमा प्रायः सोही दिन।"
+  },
+  "portals": ["moha", "nagarik"],
+  "tips": [
+    { "en": "Make sure your name is spelt the same as on your academic certificates. Correcting it later is a long process.", "ne": "नामको हिज्जे शैक्षिक प्रमाणपत्रसँग मिलेको सुनिश्चित गर्नुहोस्। पछि सच्याउन लामो प्रक्रिया लाग्छ।" },
+    { "en": "In many districts you can enrol for the national ID card at the same visit. Ask at the counter.", "ne": "धेरै जिल्लामा सोही पटक राष्ट्रिय परिचयपत्रका लागि पनि दर्ता गर्न सकिन्छ। काउन्टरमा सोध्नुहोस्।" }
+  ]
+}
